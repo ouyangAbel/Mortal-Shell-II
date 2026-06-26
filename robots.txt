@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /js/
+
+Sitemap: https://shell2hub.com/sitemap.xml
