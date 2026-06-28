@@ -1,6 +1,6 @@
 /* ============================================================
-   Mortal Shell II Guide — Global Stylesheet
-   Dark theme with gold accents — Soulslike atmosphere
+   Mortal Shell II Guide 閳?Global Stylesheet
+   Dark theme with gold accents 閳?Soulslike atmosphere
    ============================================================ */
 
 /* --- CSS Variables --- */
@@ -295,5 +295,7 @@ strong{color:#f5f0e0}
   body{background:#fff;color:#000}
 }
 
-.latest-articles{margin:3rem 0;padding:2.5rem 0;border-top:1px solid var(--border)}
+.latest-articles{margin:3rem 0}
 .latest-articles h2{margin-top:0;margin-bottom:0.5rem}
+@media (max-width:900px){.latest-articles .card-grid{grid-template-columns:1fr}}
+.latest-articles .card-grid{grid-template-columns:repeat(3,minmax(0,1fr))}

@@ -184,7 +184,7 @@ def build_home_cards(articles: list[dict[str, str]], limit: int = 6) -> str:
     lines = [
         '<section class="latest-articles" id="latest-articles">',
         '  <h2 style="text-align:center">Latest Articles</h2>',
-        '  <p style="color:var(--text-muted);text-align:center;margin:0 auto 2rem;max-width:720px">Fresh strategy breakdowns and walkthroughs pulled automatically from the newest guides.</p>',
+        '  <p style="color:var(--text-muted);text-align:center;margin:0 auto 2rem;">Fresh strategy breakdowns and walkthroughs pulled automatically from the newest guides.</p>',
         '  <div class="card-grid">',
     ]
     for article in articles[:limit]:
