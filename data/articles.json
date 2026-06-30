@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/ng-plus-guide.html",
-    "url": "articles/ng-plus-guide.html",
-    "title": "Mortal Shell II New Game Plus Guide",
-    "display_title": "New Game Plus Guide",
-    "summary": "Complete Mortal Shell II NG+ guide: what carries over, difficulty scaling, new enemy placements, exclusive NG+ rewards, and strategies to conquer every cycle. Everything that changes after your first clear.",
+    "path": "articles/parry-resolve-guide.html",
+    "url": "articles/parry-resolve-guide.html",
+    "title": "Mortal Shell II Parry &amp; Resolve Guide",
+    "display_title": "Parry &amp; Resolve Guide",
+    "summary": "Master the Mortal Shell II parry and Resolve system with complete frame data, parryable attack lists for every boss, weapon timing windows, Resolve banking, and advanced riposte chains.",
     "category": "Articles",
-    "datePublished": "2026-06-30",
-    "dateModified": "2026-06-30"
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01"
   },
   {
     "path": "weapons.html",
@@ -78,6 +78,16 @@
     "category": "Guide",
     "datePublished": "2026-06-22",
     "dateModified": "2026-06-22"
+  },
+  {
+    "path": "articles/ng-plus-guide.html",
+    "url": "articles/ng-plus-guide.html",
+    "title": "Mortal Shell II New Game Plus Guide",
+    "display_title": "New Game Plus Guide",
+    "summary": "Complete Mortal Shell II NG+ guide: what carries over, difficulty scaling, new enemy placements, exclusive NG+ rewards, and strategies to conquer every cycle. Everything that changes after your first clear.",
+    "category": "Articles",
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30"
   },
   {
     "path": "maps.html",
