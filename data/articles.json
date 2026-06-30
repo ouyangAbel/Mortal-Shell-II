@@ -1,5 +1,35 @@
 [
   {
+    "path": "articles/ng-plus-guide.html",
+    "url": "articles/ng-plus-guide.html",
+    "title": "Mortal Shell II New Game Plus Guide",
+    "display_title": "New Game Plus Guide",
+    "summary": "Complete Mortal Shell II NG+ guide: what carries over, difficulty scaling, new enemy placements, exclusive NG+ rewards, and strategies to conquer every cycle. Everything that changes after your first clear.",
+    "category": "Articles",
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30"
+  },
+  {
+    "path": "weapons.html",
+    "url": "weapons.html",
+    "title": "Mortal Shell II Weapons Catalog",
+    "display_title": "Weapons Catalog",
+    "summary": "Complete Mortal Shell II weapons catalog — detailed stats, locations, upgrade paths, and rankings for all 14 weapons across 6 categories. Find your perfect weapon.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
+  },
+  {
+    "path": "achievements.html",
+    "url": "achievements.html",
+    "title": "Mortal Shell II Trophy Guide",
+    "display_title": "Trophy Guide",
+    "summary": "Complete Mortal Shell II trophy and achievement guide — all 42 trophies with unlock conditions, difficult trophy walkthroughs, and the optimal platinum roadmap. Required reading for completionists.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
+  },
+  {
     "path": "bosses/the-unchained.html",
     "url": "bosses/the-unchained.html",
     "title": "The Unchained Boss Guide",
@@ -28,6 +58,36 @@
     "category": "Bosses",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26"
+  },
+  {
+    "path": "articles/tar-farming-guide.html",
+    "url": "articles/tar-farming-guide.html",
+    "title": "Mortal Shell II Tar Farming Guide",
+    "display_title": "Tar Farming Guide",
+    "summary": "The ultimate Mortal Shell II tar and glimpses farming guide. Best farming spots for early, mid, and late game with exact locations, yields per run, and efficiency comparisons.",
+    "category": "Articles",
+    "datePublished": "2026-06-23",
+    "dateModified": "2026-06-23"
+  },
+  {
+    "path": "shells.html",
+    "url": "shells.html",
+    "title": "Mortal Shell II Shell Compendium",
+    "display_title": "Shell Compendium",
+    "summary": "Complete Mortal Shell II Shell compendium — detailed ability trees, strengths and weaknesses, ideal weapon pairings, and best use cases for all 6 Shells. Choose right, halve the difficulty.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
+  },
+  {
+    "path": "maps.html",
+    "url": "maps.html",
+    "title": "Mortal Shell II Map Guide",
+    "display_title": "Map Guide",
+    "summary": "Complete Mortal Shell II map and exploration guide — key points for all 6 zones, hidden item locations, NPC positions, shortcut unlocks. 100% completion guide.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
   },
   {
     "path": "bosses/imrod.html",
@@ -68,56 +128,6 @@
     "category": "Bosses",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26"
-  },
-  {
-    "path": "articles/tar-farming-guide.html",
-    "url": "articles/tar-farming-guide.html",
-    "title": "Mortal Shell II Tar Farming Guide",
-    "display_title": "Tar Farming Guide",
-    "summary": "The ultimate Mortal Shell II tar and glimpses farming guide. Best farming spots for early, mid, and late game with exact locations, yields per run, and efficiency comparisons.",
-    "category": "Articles",
-    "datePublished": "2026-06-23",
-    "dateModified": "2026-06-23"
-  },
-  {
-    "path": "weapons.html",
-    "url": "weapons.html",
-    "title": "Mortal Shell II Weapons Catalog",
-    "display_title": "Weapons Catalog",
-    "summary": "Complete Mortal Shell II weapons catalog — detailed stats, locations, upgrade paths, and rankings for all 14 weapons across 6 categories. Find your perfect weapon.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
-  },
-  {
-    "path": "achievements.html",
-    "url": "achievements.html",
-    "title": "Mortal Shell II Trophy Guide",
-    "display_title": "Trophy Guide",
-    "summary": "Complete Mortal Shell II trophy and achievement guide — all 42 trophies with unlock conditions, difficult trophy walkthroughs, and the optimal platinum roadmap. Required reading for completionists.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
-  },
-  {
-    "path": "shells.html",
-    "url": "shells.html",
-    "title": "Mortal Shell II Shell Compendium",
-    "display_title": "Shell Compendium",
-    "summary": "Complete Mortal Shell II Shell compendium — detailed ability trees, strengths and weaknesses, ideal weapon pairings, and best use cases for all 6 Shells. Choose right, halve the difficulty.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
-  },
-  {
-    "path": "maps.html",
-    "url": "maps.html",
-    "title": "Mortal Shell II Map Guide",
-    "display_title": "Map Guide",
-    "summary": "Complete Mortal Shell II map and exploration guide — key points for all 6 zones, hidden item locations, NPC positions, shortcut unlocks. 100% completion guide.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
   },
   {
     "path": "boss-guides.html",
