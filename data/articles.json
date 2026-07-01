@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/parry-resolve-guide.html",
-    "url": "articles/parry-resolve-guide.html",
-    "title": "Mortal Shell II Parry &amp; Resolve Guide",
-    "display_title": "Parry &amp; Resolve Guide",
-    "summary": "Master the Mortal Shell II parry and Resolve system with complete frame data, parryable attack lists for every boss, weapon timing windows, Resolve banking, and advanced riposte chains.",
+    "path": "articles/secret-areas-hidden-bosses.html",
+    "url": "articles/secret-areas-hidden-bosses.html",
+    "title": "Mortal Shell II Secret Areas &amp; Hidden Bosses",
+    "display_title": "Secret Areas &amp; Hidden Bosses",
+    "summary": "Discover every Mortal Shell II secret area, hidden boss, and easter egg across Fallgrim, Temple Grounds, Crypt of Martyrs, Seat of Infinity, and Shifting Archives. Complete walkthrough with exact locations, illusory wall triggers, and unique loot.",
     "category": "Articles",
-    "datePublished": "2026-07-01",
-    "dateModified": "2026-07-01"
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02"
   },
   {
     "path": "weapons.html",
@@ -78,6 +78,16 @@
     "category": "Guide",
     "datePublished": "2026-06-22",
     "dateModified": "2026-06-22"
+  },
+  {
+    "path": "articles/parry-resolve-guide.html",
+    "url": "articles/parry-resolve-guide.html",
+    "title": "Mortal Shell II Parry &amp; Resolve Guide",
+    "display_title": "Parry &amp; Resolve Guide",
+    "summary": "Master the Mortal Shell II parry and Resolve system with complete frame data, parryable attack lists for every boss, weapon timing windows, Resolve banking, and advanced riposte chains.",
+    "category": "Articles",
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01"
   },
   {
     "path": "articles/ng-plus-guide.html",
