@@ -182,6 +182,7 @@ def save_articles_json(articles: list[dict[str, str]]) -> None:
 
 def build_home_cards(articles: list[dict[str, str]], limit: int = 6) -> str:
     lines = [
+        '<div class="container">',
         '<section class="latest-articles" id="latest-articles">',
         '  <h2 style="text-align:center">Latest Articles</h2>',
         '  <p style="color:var(--text-muted);text-align:center;margin:0 auto 2rem;">Fresh strategy breakdowns and walkthroughs pulled automatically from the newest guides.</p>',
@@ -196,7 +197,7 @@ def build_home_cards(articles: list[dict[str, str]], limit: int = 6) -> str:
         if date_text:
             lines.append(f'      <p style="font-size:.8rem;color:var(--text-muted);margin-top:.5rem">{date_text} \u00b7 {article["category"]}</p>')
         lines.append("    </div>")
-    lines += ["  </div>", "</section>"]
+    lines += ["  </div>", "</section>", "</div>"]
     return "\n".join(lines)
 
 
