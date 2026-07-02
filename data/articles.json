@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/secret-areas-hidden-bosses.html",
-    "url": "articles/secret-areas-hidden-bosses.html",
-    "title": "Mortal Shell II Secret Areas &amp; Hidden Bosses",
-    "display_title": "Secret Areas &amp; Hidden Bosses",
-    "summary": "Discover every Mortal Shell II secret area, hidden boss, and easter egg across Fallgrim, Temple Grounds, Crypt of Martyrs, Seat of Infinity, and Shifting Archives. Complete walkthrough with exact locations, illusory wall triggers, and unique loot.",
+    "path": "articles/npc-questlines-guide.html",
+    "url": "articles/npc-questlines-guide.html",
+    "title": "Mortal Shell II NPC Questlines",
+    "display_title": "NPC Questlines",
+    "summary": "Complete Mortal Shell II NPC questlines walkthrough: The Old Prisoner, Thestus, Vlas, Baghead, Corrupted Sester, Twin-Faced Merchant, Gorf, and Gressil. Every step, reward, missable trigger, and quest outcome.",
     "category": "Articles",
-    "datePublished": "2026-07-02",
-    "dateModified": "2026-07-02"
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
   },
   {
     "path": "weapons.html",
@@ -78,6 +78,16 @@
     "category": "Guide",
     "datePublished": "2026-06-22",
     "dateModified": "2026-06-22"
+  },
+  {
+    "path": "articles/secret-areas-hidden-bosses.html",
+    "url": "articles/secret-areas-hidden-bosses.html",
+    "title": "Mortal Shell II Secret Areas &amp; Hidden Bosses",
+    "display_title": "Secret Areas &amp; Hidden Bosses",
+    "summary": "Discover every Mortal Shell II secret area, hidden boss, and easter egg across Fallgrim, Temple Grounds, Crypt of Martyrs, Seat of Infinity, and Shifting Archives. Complete walkthrough with exact locations, illusory wall triggers, and unique loot.",
+    "category": "Articles",
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02"
   },
   {
     "path": "articles/parry-resolve-guide.html",
