@@ -1,10 +1,40 @@
 [
   {
-    "path": "articles/npc-questlines-guide.html",
-    "url": "articles/npc-questlines-guide.html",
-    "title": "Mortal Shell II NPC Questlines",
-    "display_title": "NPC Questlines",
-    "summary": "Complete Mortal Shell II NPC questlines walkthrough: The Old Prisoner, Thestus, Vlas, Baghead, Corrupted Sester, Twin-Faced Merchant, Gorf, and Gressil. Every step, reward, missable trigger, and quest outcome.",
+    "path": "articles/tiel-assassin-build.html",
+    "url": "articles/tiel-assassin-build.html",
+    "title": "Mortal Shell II Tiel Assassin Build",
+    "display_title": "Tiel Assassin Build",
+    "summary": "Master Mortal Shell II Tiel assassin build with optimal ability tree paths, best weapon pairings, shadow step combos, and critical hit stacking. Maximize DPS with the ultimate glass cannon setup.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/solomon-mage-build.html",
+    "url": "articles/solomon-mage-build.html",
+    "title": "Mortal Shell II Solomon Mage Build",
+    "display_title": "Solomon Mage Build",
+    "summary": "Master Mortal Shell II Solomon mage build with optimal Resolve stacking, spell amplification, best catalyst weapons, and Resolve-banking strategies. Maximize spell damage for every boss encounter.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/harrow-tank-build.html",
+    "url": "articles/harrow-tank-build.html",
+    "title": "Mortal Shell II Harrow Tank Build",
+    "display_title": "Harrow Tank Build",
+    "summary": "Master Mortal Shell II Harrow tank build with optimal fortification abilities, damage reduction stacking, best heavy weapons, and boss-specific survival strategies. Become unkillable.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/eredrim-strength-build.html",
+    "url": "articles/eredrim-strength-build.html",
+    "title": "Mortal Shell II Eredrim Strength Build",
+    "display_title": "Eredrim Strength Build",
+    "summary": "Master Mortal Shell II Eredrim strength build with optimal damage stacking, stagger mechanics, execution bonuses, and best heavy weapons. Maximize raw DPS with the ultimate power Shell.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
@@ -108,6 +138,16 @@
     "category": "Articles",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30"
+  },
+  {
+    "path": "articles/npc-questlines-guide.html",
+    "url": "articles/npc-questlines-guide.html",
+    "title": "Mortal Shell II NPC Questlines",
+    "display_title": "NPC Questlines",
+    "summary": "Complete Mortal Shell II NPC questlines walkthrough: The Old Prisoner, Thestus, Vlas, Baghead, Corrupted Sester, Twin-Faced Merchant, Gorf, and Gressil. Every step, reward, missable trigger, and quest outcome.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
   },
   {
     "path": "maps.html",
