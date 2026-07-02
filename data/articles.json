@@ -1,40 +1,40 @@
 [
   {
-    "path": "articles/tiel-assassin-build.html",
-    "url": "articles/tiel-assassin-build.html",
-    "title": "Mortal Shell II Tiel Assassin Build",
-    "display_title": "Tiel Assassin Build",
-    "summary": "Master Mortal Shell II Tiel assassin build with optimal ability tree paths, best weapon pairings, shadow step combos, and critical hit stacking. Maximize DPS with the ultimate glass cannon setup.",
+    "path": "articles/shell-swap-combo-guide.html",
+    "url": "articles/shell-swap-combo-guide.html",
+    "title": "Mortal Shell II Shell Swap Combo Guide",
+    "display_title": "Shell Swap Combo Guide",
+    "summary": "Master Mortal Shell II shell swap combos with mid-combat switching techniques, Harden continuity tricks, stat inheritance, and boss-specific swap chains for maximum combat efficiency.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/solomon-mage-build.html",
-    "url": "articles/solomon-mage-build.html",
-    "title": "Mortal Shell II Solomon Mage Build",
-    "display_title": "Solomon Mage Build",
-    "summary": "Master Mortal Shell II Solomon mage build with optimal Resolve stacking, spell amplification, best catalyst weapons, and Resolve-banking strategies. Maximize spell damage for every boss encounter.",
+    "path": "articles/shell-ability-tree-guide.html",
+    "url": "articles/shell-ability-tree-guide.html",
+    "title": "Mortal Shell II Shell Ability Tree Guide",
+    "display_title": "Shell Ability Tree Guide",
+    "summary": "Complete Mortal Shell II Shell ability tree guide with optimal upgrade routes, skill point allocation, and priority rankings for all 6 Shells. Maximize every point spent.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/harrow-tank-build.html",
-    "url": "articles/harrow-tank-build.html",
-    "title": "Mortal Shell II Harrow Tank Build",
-    "display_title": "Harrow Tank Build",
-    "summary": "Master Mortal Shell II Harrow tank build with optimal fortification abilities, damage reduction stacking, best heavy weapons, and boss-specific survival strategies. Become unkillable.",
+    "path": "articles/martyrs-blade-ice-guide.html",
+    "url": "articles/martyrs-blade-ice-guide.html",
+    "title": "Mortal Shell II Martyr's Blade Guide",
+    "display_title": "Martyr's Blade Guide",
+    "summary": "Complete Mortal Shell II Martyr's Blade guide with upgrade tiers, frost mechanics, stagger data, optimal Shell pairings, and boss-specific strategies. Master the ice greatsword.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/eredrim-strength-build.html",
-    "url": "articles/eredrim-strength-build.html",
-    "title": "Mortal Shell II Eredrim Strength Build",
-    "display_title": "Eredrim Strength Build",
-    "summary": "Master Mortal Shell II Eredrim strength build with optimal damage stacking, stagger mechanics, execution bonuses, and best heavy weapons. Maximize raw DPS with the ultimate power Shell.",
+    "path": "articles/hallowed-sword-upgrade-guide.html",
+    "url": "articles/hallowed-sword-upgrade-guide.html",
+    "title": "Mortal Shell II Hallowed Sword Guide",
+    "display_title": "Hallowed Sword Guide",
+    "summary": "Complete Mortal Shell II Hallowed Sword guide with all 5 upgrade tiers, stat progression, material costs, infusion paths, and optimal build pairings for every Shell.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
@@ -58,6 +58,16 @@
     "category": "Guide",
     "datePublished": "2026-06-22",
     "dateModified": "2026-06-22"
+  },
+  {
+    "path": "articles/tiel-assassin-build.html",
+    "url": "articles/tiel-assassin-build.html",
+    "title": "Mortal Shell II Tiel Assassin Build",
+    "display_title": "Tiel Assassin Build",
+    "summary": "Master Mortal Shell II Tiel assassin build with optimal ability tree paths, best weapon pairings, shadow step combos, and critical hit stacking. Maximize DPS with the ultimate glass cannon setup.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
   },
   {
     "path": "bosses/the-unchained.html",
@@ -98,6 +108,16 @@
     "category": "Articles",
     "datePublished": "2026-06-23",
     "dateModified": "2026-06-23"
+  },
+  {
+    "path": "articles/solomon-mage-build.html",
+    "url": "articles/solomon-mage-build.html",
+    "title": "Mortal Shell II Solomon Mage Build",
+    "display_title": "Solomon Mage Build",
+    "summary": "Master Mortal Shell II Solomon mage build with optimal Resolve stacking, spell amplification, best catalyst weapons, and Resolve-banking strategies. Maximize spell damage for every boss encounter.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
   },
   {
     "path": "shells.html",
@@ -170,6 +190,16 @@
     "dateModified": "2026-06-26"
   },
   {
+    "path": "articles/harrow-tank-build.html",
+    "url": "articles/harrow-tank-build.html",
+    "title": "Mortal Shell II Harrow Tank Build",
+    "display_title": "Harrow Tank Build",
+    "summary": "Master Mortal Shell II Harrow tank build with optimal fortification abilities, damage reduction stacking, best heavy weapons, and boss-specific survival strategies. Become unkillable.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
     "path": "bosses/hadern.html",
     "url": "bosses/hadern.html",
     "title": "Hadern Boss Guide",
@@ -178,6 +208,16 @@
     "category": "Bosses",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26"
+  },
+  {
+    "path": "articles/eredrim-strength-build.html",
+    "url": "articles/eredrim-strength-build.html",
+    "title": "Mortal Shell II Eredrim Strength Build",
+    "display_title": "Eredrim Strength Build",
+    "summary": "Master Mortal Shell II Eredrim strength build with optimal damage stacking, stagger mechanics, execution bonuses, and best heavy weapons. Maximize raw DPS with the ultimate power Shell.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
   },
   {
     "path": "bosses/crucix.html",
