@@ -1,40 +1,40 @@
 [
   {
-    "path": "articles/smoldering-mace-fire-guide.html",
-    "url": "articles/smoldering-mace-fire-guide.html",
-    "title": "Mortal Shell II Smoldering Mace Guide",
-    "display_title": "Smoldering Mace Guide",
-    "summary": "Complete Mortal Shell II Smoldering Mace guide with upgrade tiers, fire DoT mechanics, AoE shockwave data, optimal Shell pairings, and boss-specific fire strategies.",
+    "path": "articles/temple-grounds-zone-guide.html",
+    "url": "articles/temple-grounds-zone-guide.html",
+    "title": "Mortal Shell II Temple Grounds Zone Guide",
+    "display_title": "Temple Grounds Zone Guide",
+    "summary": "Complete Mortal Shell II Temple Grounds zone guide with full walkthrough, all item locations, Flame Warden strategies, shortcut unlocks, and path to the Temple boss.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/fallgrim-zone-guide.html",
-    "url": "articles/fallgrim-zone-guide.html",
-    "title": "Mortal Shell II Fallgrim Zone Guide",
-    "display_title": "Fallgrim Zone Guide",
-    "summary": "Complete Mortal Shell II Fallgrim zone guide with full walkthrough, all collectible locations, secret areas, NPC positions, shortcut unlocks, and boss strategies for the starting region.",
+    "path": "articles/shifting-archives-zone-guide.html",
+    "url": "articles/shifting-archives-zone-guide.html",
+    "title": "Mortal Shell II Shifting Archives Zone Guide",
+    "display_title": "Shifting Archives Zone Guide",
+    "summary": "Complete Mortal Shell II Shifting Archives zone guide with walkthrough, Void Key location, Abyssal Siphon puzzle, shifting floor mechanics, and the path to The Dark Father final boss.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/dual-wield-build-guide.html",
-    "url": "articles/dual-wield-build-guide.html",
-    "title": "Mortal Shell II Dual Wield Build Guide",
-    "display_title": "Dual Wield Build Guide",
-    "summary": "Master Mortal Shell II dual wield builds with optimal weapon combos, Shell synergies, stance-switching techniques, and the best dual weapon setups for every playstyle.",
+    "path": "articles/seat-of-infinity-zone-guide.html",
+    "url": "articles/seat-of-infinity-zone-guide.html",
+    "title": "Mortal Shell II Seat of Infinity Zone Guide",
+    "display_title": "Seat of Infinity Zone Guide",
+    "summary": "Complete Mortal Shell II Seat of Infinity zone guide with walkthrough, lava arena strategies, Forge Key location, Ember Core farming, and the path to Imrod the Unrepentant.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/abyssal-siphon-whip-guide.html",
-    "url": "articles/abyssal-siphon-whip-guide.html",
-    "title": "Mortal Shell II Abyssal Siphon Guide",
-    "display_title": "Abyssal Siphon Guide",
-    "summary": "Complete Mortal Shell II Abyssal Siphon chain whip guide with upgrade tiers, pull mechanics, mid-range combat strategies, optimal Shell pairings, and boss-specific pull setups.",
+    "path": "articles/crypt-of-martyrs-zone-guide.html",
+    "url": "articles/crypt-of-martyrs-zone-guide.html",
+    "title": "Mortal Shell II Crypt of Martyrs Zone Guide",
+    "display_title": "Crypt of Martyrs Zone Guide",
+    "summary": "Complete Mortal Shell II Crypt of Martyrs zone guide with walkthrough, Martyr's Blade location, Frost Wraith strategies, illusory walls, and the path to Crucix the Twiceborn.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
@@ -115,6 +115,16 @@
     "title": "Mortal Shell II Solomon Mage Build",
     "display_title": "Solomon Mage Build",
     "summary": "Master Mortal Shell II Solomon mage build with optimal Resolve stacking, spell amplification, best catalyst weapons, and Resolve-banking strategies. Maximize spell damage for every boss encounter.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/smoldering-mace-fire-guide.html",
+    "url": "articles/smoldering-mace-fire-guide.html",
+    "title": "Mortal Shell II Smoldering Mace Guide",
+    "display_title": "Smoldering Mace Guide",
+    "summary": "Complete Mortal Shell II Smoldering Mace guide with upgrade tiers, fire DoT mechanics, AoE shockwave data, optimal Shell pairings, and boss-specific fire strategies.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
@@ -250,11 +260,31 @@
     "dateModified": "2026-06-26"
   },
   {
+    "path": "articles/fallgrim-zone-guide.html",
+    "url": "articles/fallgrim-zone-guide.html",
+    "title": "Mortal Shell II Fallgrim Zone Guide",
+    "display_title": "Fallgrim Zone Guide",
+    "summary": "Complete Mortal Shell II Fallgrim zone guide with full walkthrough, all collectible locations, secret areas, NPC positions, shortcut unlocks, and boss strategies for the starting region.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
     "path": "articles/eredrim-strength-build.html",
     "url": "articles/eredrim-strength-build.html",
     "title": "Mortal Shell II Eredrim Strength Build",
     "display_title": "Eredrim Strength Build",
     "summary": "Master Mortal Shell II Eredrim strength build with optimal damage stacking, stagger mechanics, execution bonuses, and best heavy weapons. Maximize raw DPS with the ultimate power Shell.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/dual-wield-build-guide.html",
+    "url": "articles/dual-wield-build-guide.html",
+    "title": "Mortal Shell II Dual Wield Build Guide",
+    "display_title": "Dual Wield Build Guide",
+    "summary": "Master Mortal Shell II dual wield builds with optimal weapon combos, Shell synergies, stance-switching techniques, and the best dual weapon setups for every playstyle.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
@@ -308,5 +338,15 @@
     "category": "Guide",
     "datePublished": "2026-06-22",
     "dateModified": "2026-06-22"
+  },
+  {
+    "path": "articles/abyssal-siphon-whip-guide.html",
+    "url": "articles/abyssal-siphon-whip-guide.html",
+    "title": "Mortal Shell II Abyssal Siphon Guide",
+    "display_title": "Abyssal Siphon Guide",
+    "summary": "Complete Mortal Shell II Abyssal Siphon chain whip guide with upgrade tiers, pull mechanics, mid-range combat strategies, optimal Shell pairings, and boss-specific pull setups.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
   }
 ]
