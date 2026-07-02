@@ -1,40 +1,40 @@
 [
   {
-    "path": "articles/shell-swap-combo-guide.html",
-    "url": "articles/shell-swap-combo-guide.html",
-    "title": "Mortal Shell II Shell Swap Combo Guide",
-    "display_title": "Shell Swap Combo Guide",
-    "summary": "Master Mortal Shell II shell swap combos with mid-combat switching techniques, Harden continuity tricks, stat inheritance, and boss-specific swap chains for maximum combat efficiency.",
+    "path": "articles/smoldering-mace-fire-guide.html",
+    "url": "articles/smoldering-mace-fire-guide.html",
+    "title": "Mortal Shell II Smoldering Mace Guide",
+    "display_title": "Smoldering Mace Guide",
+    "summary": "Complete Mortal Shell II Smoldering Mace guide with upgrade tiers, fire DoT mechanics, AoE shockwave data, optimal Shell pairings, and boss-specific fire strategies.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/shell-ability-tree-guide.html",
-    "url": "articles/shell-ability-tree-guide.html",
-    "title": "Mortal Shell II Shell Ability Tree Guide",
-    "display_title": "Shell Ability Tree Guide",
-    "summary": "Complete Mortal Shell II Shell ability tree guide with optimal upgrade routes, skill point allocation, and priority rankings for all 6 Shells. Maximize every point spent.",
+    "path": "articles/fallgrim-zone-guide.html",
+    "url": "articles/fallgrim-zone-guide.html",
+    "title": "Mortal Shell II Fallgrim Zone Guide",
+    "display_title": "Fallgrim Zone Guide",
+    "summary": "Complete Mortal Shell II Fallgrim zone guide with full walkthrough, all collectible locations, secret areas, NPC positions, shortcut unlocks, and boss strategies for the starting region.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/martyrs-blade-ice-guide.html",
-    "url": "articles/martyrs-blade-ice-guide.html",
-    "title": "Mortal Shell II Martyr's Blade Guide",
-    "display_title": "Martyr's Blade Guide",
-    "summary": "Complete Mortal Shell II Martyr's Blade guide with upgrade tiers, frost mechanics, stagger data, optimal Shell pairings, and boss-specific strategies. Master the ice greatsword.",
+    "path": "articles/dual-wield-build-guide.html",
+    "url": "articles/dual-wield-build-guide.html",
+    "title": "Mortal Shell II Dual Wield Build Guide",
+    "display_title": "Dual Wield Build Guide",
+    "summary": "Master Mortal Shell II dual wield builds with optimal weapon combos, Shell synergies, stance-switching techniques, and the best dual weapon setups for every playstyle.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
   },
   {
-    "path": "articles/hallowed-sword-upgrade-guide.html",
-    "url": "articles/hallowed-sword-upgrade-guide.html",
-    "title": "Mortal Shell II Hallowed Sword Guide",
-    "display_title": "Hallowed Sword Guide",
-    "summary": "Complete Mortal Shell II Hallowed Sword guide with all 5 upgrade tiers, stat progression, material costs, infusion paths, and optimal build pairings for every Shell.",
+    "path": "articles/abyssal-siphon-whip-guide.html",
+    "url": "articles/abyssal-siphon-whip-guide.html",
+    "title": "Mortal Shell II Abyssal Siphon Guide",
+    "display_title": "Abyssal Siphon Guide",
+    "summary": "Complete Mortal Shell II Abyssal Siphon chain whip guide with upgrade tiers, pull mechanics, mid-range combat strategies, optimal Shell pairings, and boss-specific pull setups.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
@@ -120,6 +120,16 @@
     "dateModified": "2026-07-03"
   },
   {
+    "path": "articles/shell-swap-combo-guide.html",
+    "url": "articles/shell-swap-combo-guide.html",
+    "title": "Mortal Shell II Shell Swap Combo Guide",
+    "display_title": "Shell Swap Combo Guide",
+    "summary": "Master Mortal Shell II shell swap combos with mid-combat switching techniques, Harden continuity tricks, stat inheritance, and boss-specific swap chains for maximum combat efficiency.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
     "path": "shells.html",
     "url": "shells.html",
     "title": "Mortal Shell II Shell Compendium",
@@ -128,6 +138,16 @@
     "category": "Guide",
     "datePublished": "2026-06-22",
     "dateModified": "2026-06-22"
+  },
+  {
+    "path": "articles/shell-ability-tree-guide.html",
+    "url": "articles/shell-ability-tree-guide.html",
+    "title": "Mortal Shell II Shell Ability Tree Guide",
+    "display_title": "Shell Ability Tree Guide",
+    "summary": "Complete Mortal Shell II Shell ability tree guide with optimal upgrade routes, skill point allocation, and priority rankings for all 6 Shells. Maximize every point spent.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
   },
   {
     "path": "articles/secret-areas-hidden-bosses.html",
@@ -170,6 +190,16 @@
     "dateModified": "2026-07-03"
   },
   {
+    "path": "articles/martyrs-blade-ice-guide.html",
+    "url": "articles/martyrs-blade-ice-guide.html",
+    "title": "Mortal Shell II Martyr's Blade Guide",
+    "display_title": "Martyr's Blade Guide",
+    "summary": "Complete Mortal Shell II Martyr's Blade guide with upgrade tiers, frost mechanics, stagger data, optimal Shell pairings, and boss-specific strategies. Master the ice greatsword.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
     "path": "maps.html",
     "url": "maps.html",
     "title": "Mortal Shell II Map Guide",
@@ -195,6 +225,16 @@
     "title": "Mortal Shell II Harrow Tank Build",
     "display_title": "Harrow Tank Build",
     "summary": "Master Mortal Shell II Harrow tank build with optimal fortification abilities, damage reduction stacking, best heavy weapons, and boss-specific survival strategies. Become unkillable.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/hallowed-sword-upgrade-guide.html",
+    "url": "articles/hallowed-sword-upgrade-guide.html",
+    "title": "Mortal Shell II Hallowed Sword Guide",
+    "display_title": "Hallowed Sword Guide",
+    "summary": "Complete Mortal Shell II Hallowed Sword guide with all 5 upgrade tiers, stat progression, material costs, infusion paths, and optimal build pairings for every Shell.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
