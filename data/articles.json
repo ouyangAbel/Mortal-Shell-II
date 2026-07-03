@@ -1,43 +1,13 @@
 [
   {
-    "path": "articles/speedrun-route-guide.html",
-    "url": "articles/speedrun-route-guide.html",
-    "title": "Mortal Shell II Speedrun Route Guide",
-    "display_title": "Speedrun Route Guide",
-    "summary": "Complete Mortal Shell II speedrun route guide with the fastest boss order, critical skips, optimal Shell and weapon progression, and world-record strategies for Any% and All Bosses.",
+    "path": "articles/lore-story-analysis.html",
+    "url": "articles/lore-story-analysis.html",
+    "title": "Mortal Shell II Lore & Story Analysis",
+    "display_title": "Lore & Story Analysis",
+    "summary": "Complete Mortal Shell II lore and story analysis: the Fallgrim world creation myth, the Seven Shells origin, Vatra's corruption, The Dark Father's true identity, and all hidden narrative connections. Every secret of the narrative decoded.",
     "category": "Articles",
-    "datePublished": "2026-07-03",
-    "dateModified": "2026-07-03"
-  },
-  {
-    "path": "articles/pvp-invasion-guide.html",
-    "url": "articles/pvp-invasion-guide.html",
-    "title": "Mortal Shell II PvP & Invasion Guide",
-    "display_title": "PvP & Invasion Guide",
-    "summary": "Complete Mortal Shell II PvP and Invasion guide covering multiplayer mechanics, covenant rewards, optimal PvP builds, invasion tactics, and arena dueling strategies.",
-    "category": "Articles",
-    "datePublished": "2026-07-03",
-    "dateModified": "2026-07-03"
-  },
-  {
-    "path": "articles/consumable-crafting-guide.html",
-    "url": "articles/consumable-crafting-guide.html",
-    "title": "Mortal Shell II Consumable Crafting Guide",
-    "display_title": "Consumable Crafting Guide",
-    "summary": "Complete Mortal Shell II consumable crafting guide with all recipes, ingredient farming locations, best buffs for boss fights, and optimal consumable loadouts for every Shell.",
-    "category": "Articles",
-    "datePublished": "2026-07-03",
-    "dateModified": "2026-07-03"
-  },
-  {
-    "path": "articles/boss-rush-mode-guide.html",
-    "url": "articles/boss-rush-mode-guide.html",
-    "title": "Mortal Shell II Boss Rush Mode Guide",
-    "display_title": "Boss Rush Mode Guide",
-    "summary": "Complete Mortal Shell II Boss Rush mode guide with strategies for all 8 consecutive bosses, optimal Shell and weapon routes, reward tiers, and S-rank completion tips.",
-    "category": "Articles",
-    "datePublished": "2026-07-03",
-    "dateModified": "2026-07-03"
+    "datePublished": "2026-07-04",
+    "dateModified": "2026-07-04"
   },
   {
     "path": "weapons.html",
@@ -120,6 +90,16 @@
     "dateModified": "2026-06-23"
   },
   {
+    "path": "articles/speedrun-route-guide.html",
+    "url": "articles/speedrun-route-guide.html",
+    "title": "Mortal Shell II Speedrun Route Guide",
+    "display_title": "Speedrun Route Guide",
+    "summary": "Complete Mortal Shell II speedrun route guide with the fastest boss order, critical skips, optimal Shell and weapon progression, and world-record strategies for Any% and All Bosses.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
     "path": "articles/solomon-mage-build.html",
     "url": "articles/solomon-mage-build.html",
     "title": "Mortal Shell II Solomon Mage Build",
@@ -195,6 +175,16 @@
     "title": "Mortal Shell II Seat of Infinity Zone Guide",
     "display_title": "Seat of Infinity Zone Guide",
     "summary": "Complete Mortal Shell II Seat of Infinity zone guide with walkthrough, lava arena strategies, Forge Key location, Ember Core farming, and the path to Imrod the Unrepentant.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/pvp-invasion-guide.html",
+    "url": "articles/pvp-invasion-guide.html",
+    "title": "Mortal Shell II PvP & Invasion Guide",
+    "display_title": "PvP & Invasion Guide",
+    "summary": "Complete Mortal Shell II PvP and Invasion guide covering multiplayer mechanics, covenant rewards, optimal PvP builds, invasion tactics, and arena dueling strategies.",
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
@@ -348,6 +338,26 @@
     "category": "Bosses",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26"
+  },
+  {
+    "path": "articles/consumable-crafting-guide.html",
+    "url": "articles/consumable-crafting-guide.html",
+    "title": "Mortal Shell II Consumable Crafting Guide",
+    "display_title": "Consumable Crafting Guide",
+    "summary": "Complete Mortal Shell II consumable crafting guide with all recipes, ingredient farming locations, best buffs for boss fights, and optimal consumable loadouts for every Shell.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/boss-rush-mode-guide.html",
+    "url": "articles/boss-rush-mode-guide.html",
+    "title": "Mortal Shell II Boss Rush Mode Guide",
+    "display_title": "Boss Rush Mode Guide",
+    "summary": "Complete Mortal Shell II Boss Rush mode guide with strategies for all 8 consecutive bosses, optimal Shell and weapon routes, reward tiers, and S-rank completion tips.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
   },
   {
     "path": "boss-guides.html",
