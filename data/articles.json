@@ -1,143 +1,13 @@
 [
   {
-    "path": "articles/lore-story-analysis.html",
-    "url": "articles/lore-story-analysis.html",
-    "title": "Mortal Shell II Lore & Story Analysis",
-    "display_title": "Lore & Story Analysis",
-    "summary": "Complete Mortal Shell II lore and story analysis: the Fallgrim world creation myth, the Seven Shells origin, Vatra's corruption, The Dark Father's true identity, and all hidden narrative connections. Every secret of the narrative decoded.",
+    "path": "articles/pc-optimization-settings-guide.html",
+    "url": "articles/pc-optimization-settings-guide.html",
+    "title": "Mortal Shell II PC Optimization Guide",
+    "display_title": "PC Optimization Guide",
+    "summary": "Ultimate Mortal Shell II PC optimization guide. Graphics settings breakdown, FPS benchmarks by GPU tier, NVIDIA/AMD control panel tweaks, stutter fixes, ultrawide support, and controller setup. Achieve smooth 60–144 FPS on any hardware.",
     "category": "Articles",
-    "datePublished": "2026-07-04",
-    "dateModified": "2026-07-04"
-  },
-  {
-    "path": "articles/npc-questlines-guide.html",
-    "url": "articles/npc-questlines-guide.html",
-    "title": "Mortal Shell II NPC Questlines",
-    "display_title": "NPC Questlines",
-    "summary": "Complete Mortal Shell II NPC questlines walkthrough: The Old Prisoner, Thestus, Vlas, Baghead, Corrupted Sester, Twin-Faced Merchant, Gorf, and Gressil. Every step, reward, missable trigger, and quest outcome.",
-    "category": "Articles",
-    "datePublished": "2026-07-03",
-    "dateModified": "2026-07-03"
-  },
-  {
-    "path": "articles/secret-areas-hidden-bosses.html",
-    "url": "articles/secret-areas-hidden-bosses.html",
-    "title": "Mortal Shell II Secret Areas &amp; Hidden Bosses",
-    "display_title": "Secret Areas &amp; Hidden Bosses",
-    "summary": "Discover every Mortal Shell II secret area, hidden boss, and easter egg across Fallgrim, Temple Grounds, Crypt of Martyrs, Seat of Infinity, and Shifting Archives. Complete walkthrough with exact locations, illusory wall triggers, and unique loot.",
-    "category": "Articles",
-    "datePublished": "2026-07-02",
-    "dateModified": "2026-07-02"
-  },
-  {
-    "path": "articles/parry-resolve-guide.html",
-    "url": "articles/parry-resolve-guide.html",
-    "title": "Mortal Shell II Parry &amp; Resolve Guide",
-    "display_title": "Parry &amp; Resolve Guide",
-    "summary": "Master the Mortal Shell II parry and Resolve system with complete frame data, parryable attack lists for every boss, weapon timing windows, Resolve banking, and advanced riposte chains.",
-    "category": "Articles",
-    "datePublished": "2026-07-01",
-    "dateModified": "2026-07-01"
-  },
-  {
-    "path": "articles/ng-plus-guide.html",
-    "url": "articles/ng-plus-guide.html",
-    "title": "Mortal Shell II New Game Plus Guide",
-    "display_title": "New Game Plus Guide",
-    "summary": "Complete Mortal Shell II NG+ guide: what carries over, difficulty scaling, new enemy placements, exclusive NG+ rewards, and strategies to conquer every cycle. Everything that changes after your first clear.",
-    "category": "Articles",
-    "datePublished": "2026-06-30",
-    "dateModified": "2026-06-30"
-  },
-  {
-    "path": "articles/combat-tips-tricks.html",
-    "url": "articles/combat-tips-tricks.html",
-    "title": "Mortal Shell II Combat Tips",
-    "display_title": "Combat Tips",
-    "summary": "Master Mortal Shell II with 20 essential combat tips. Harden mastery, stamina management, weapon switching, parry windows, boss-specific tricks, & advanced techniques that pros use.",
-    "category": "Articles",
-    "datePublished": "2026-06-29",
-    "dateModified": "2026-06-29"
-  },
-  {
-    "path": "bosses/the-unchained.html",
-    "url": "bosses/the-unchained.html",
-    "title": "The Unchained Boss Guide",
-    "display_title": "The Unchained Boss Guide",
-    "summary": "Complete The Unchained boss guide for Mortal Shell II. Chaos Flurry rhythm guide, Abyssal Grasp counters, Chain Cyclone evasion, recommended loadout, and no-hit tips.",
-    "category": "Bosses",
-    "datePublished": "2026-06-26",
-    "dateModified": "2026-06-26"
-  },
-  {
-    "path": "bosses/the-dark-father.html",
-    "url": "bosses/the-dark-father.html",
-    "title": "The Dark Father Final Boss Guide",
-    "display_title": "The Dark Father Final Boss Guide",
-    "summary": "Complete The Dark Father final boss guide for Mortal Shell II. All 3 phases covered: Humanoid, Shadow Form, and Ultimate Form. Attack patterns, strategies, recommended loadout, and no-hit tips.",
-    "category": "Bosses",
-    "datePublished": "2026-06-26",
-    "dateModified": "2026-06-26"
-  },
-  {
-    "path": "bosses/tarsus.html",
-    "url": "bosses/tarsus.html",
-    "title": "Tarsus the First Martyr Boss Guide",
-    "display_title": "Tarsus the First Martyr Boss Guide",
-    "summary": "Complete Tarsus, the First Martyr boss guide for Mortal Shell II. Frost greatsword attacks, blizzard phase, clone mechanics, recommended loadout, and no-hit strategy.",
-    "category": "Bosses",
-    "datePublished": "2026-06-26",
-    "dateModified": "2026-06-26"
-  },
-  {
-    "path": "bosses/imrod.html",
-    "url": "bosses/imrod.html",
-    "title": "Imrod the Unrepentant Boss Guide",
-    "display_title": "Imrod the Unrepentant Boss Guide",
-    "summary": "Complete Imrod, the Unrepentant boss guide for Mortal Shell II. Fire giant attack patterns, lava arena management, Forge's Fury phase, recommended loadout, and no-hit tips.",
-    "category": "Bosses",
-    "datePublished": "2026-06-26",
-    "dateModified": "2026-06-26"
-  },
-  {
-    "path": "bosses/hadern.html",
-    "url": "bosses/hadern.html",
-    "title": "Hadern Boss Guide",
-    "display_title": "Hadern Boss Guide",
-    "summary": "Complete Hadern boss guide for Mortal Shell II. Phase-by-phase attack breakdown, recommended Shell and weapons, preparation tips, and no-hit strategy for the tutorial boss.",
-    "category": "Bosses",
-    "datePublished": "2026-06-26",
-    "dateModified": "2026-06-26"
-  },
-  {
-    "path": "bosses/crucix.html",
-    "url": "bosses/crucix.html",
-    "title": "Crucix the Twiceborn Boss Guide",
-    "display_title": "Crucix the Twiceborn Boss Guide",
-    "summary": "Complete Crucix, the Twiceborn boss guide for Mortal Shell II. Human form and spider phase strategies, attack patterns, recommended loadout, and no-hit tips.",
-    "category": "Bosses",
-    "datePublished": "2026-06-26",
-    "dateModified": "2026-06-26"
-  },
-  {
-    "path": "bosses/corvid.html",
-    "url": "bosses/corvid.html",
-    "title": "Corvid the Watcher Boss Guide",
-    "display_title": "Corvid the Watcher Boss Guide",
-    "summary": "Complete Corvid, the Watcher boss guide for Mortal Shell II. Aerial attack patterns, Shroud of Darkness phase, dive bomb counters, recommended loadout, and no-hit tips.",
-    "category": "Bosses",
-    "datePublished": "2026-06-26",
-    "dateModified": "2026-06-26"
-  },
-  {
-    "path": "articles/tar-farming-guide.html",
-    "url": "articles/tar-farming-guide.html",
-    "title": "Mortal Shell II Tar Farming Guide",
-    "display_title": "Tar Farming Guide",
-    "summary": "The ultimate Mortal Shell II tar and glimpses farming guide. Best farming spots for early, mid, and late game with exact locations, yields per run, and efficiency comparisons.",
-    "category": "Articles",
-    "datePublished": "2026-06-23",
-    "dateModified": "2026-06-23"
+    "datePublished": "2026-07-05",
+    "dateModified": "2026-07-05"
   },
   {
     "path": "weapons.html",
@@ -160,56 +30,6 @@
     "dateModified": "2026-06-22"
   },
   {
-    "path": "shells.html",
-    "url": "shells.html",
-    "title": "Mortal Shell II Shell Compendium",
-    "display_title": "Shell Compendium",
-    "summary": "Complete Mortal Shell II Shell compendium — detailed ability trees, strengths and weaknesses, ideal weapon pairings, and best use cases for all 6 Shells. Choose right, halve the difficulty.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
-  },
-  {
-    "path": "maps.html",
-    "url": "maps.html",
-    "title": "Mortal Shell II Map Guide",
-    "display_title": "Map Guide",
-    "summary": "Complete Mortal Shell II map and exploration guide — key points for all 6 zones, hidden item locations, NPC positions, shortcut unlocks. 100% completion guide.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
-  },
-  {
-    "path": "boss-guides.html",
-    "url": "boss-guides.html",
-    "title": "Mortal Shell II Boss Guide 鈥?All Bosses 路 Weaknesses 路 No-Hit Strategies",
-    "display_title": "Boss Guide 鈥?All Bosses 路 Weaknesses 路 No-Hit Strategies",
-    "summary": "Complete Mortal Shell II boss guide 鈥?weaknesses, phase-by-phase strategies, recommended Shells and weapons, and no-hit tips for all 7 major bosses. Stuck on a boss? Start here.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
-  },
-  {
-    "path": "builds.html",
-    "url": "builds.html",
-    "title": "Mortal Shell II Best Builds",
-    "display_title": "Best Builds",
-    "summary": "Mortal Shell II best builds guide — 5 complete configurations: Tank, Assassin, Mage, Power, and Balanced. Shell + weapon + skill point allocation for every playstyle.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
-  },
-  {
-    "path": "beginner-guide.html",
-    "url": "beginner-guide.html",
-    "title": "Mortal Shell II Beginner's Guide",
-    "display_title": "Beginner's Guide",
-    "summary": "Complete Mortal Shell II beginner's guide. Learn the core combat system, master the Harden mechanic, understand death penalties, and pick the right starting Shell. Zero to hero.",
-    "category": "Guide",
-    "datePublished": "2026-06-22",
-    "dateModified": "2026-06-22"
-  },
-  {
     "path": "articles/tiel-assassin-build.html",
     "url": "articles/tiel-assassin-build.html",
     "title": "Mortal Shell II Tiel Assassin Build",
@@ -220,6 +40,26 @@
     "dateModified": "2026-07-03"
   },
   {
+    "path": "bosses/the-unchained.html",
+    "url": "bosses/the-unchained.html",
+    "title": "The Unchained Boss Guide",
+    "display_title": "The Unchained Boss Guide",
+    "summary": "Complete The Unchained boss guide for Mortal Shell II. Chaos Flurry rhythm guide, Abyssal Grasp counters, Chain Cyclone evasion, recommended loadout, and no-hit tips.",
+    "category": "Bosses",
+    "datePublished": "2026-06-26",
+    "dateModified": "2026-06-26"
+  },
+  {
+    "path": "bosses/the-dark-father.html",
+    "url": "bosses/the-dark-father.html",
+    "title": "The Dark Father Final Boss Guide",
+    "display_title": "The Dark Father Final Boss Guide",
+    "summary": "Complete The Dark Father final boss guide for Mortal Shell II. All 3 phases covered: Humanoid, Shadow Form, and Ultimate Form. Attack patterns, strategies, recommended loadout, and no-hit tips.",
+    "category": "Bosses",
+    "datePublished": "2026-06-26",
+    "dateModified": "2026-06-26"
+  },
+  {
     "path": "articles/temple-grounds-zone-guide.html",
     "url": "articles/temple-grounds-zone-guide.html",
     "title": "Mortal Shell II Temple Grounds Zone Guide",
@@ -228,6 +68,26 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "bosses/tarsus.html",
+    "url": "bosses/tarsus.html",
+    "title": "Tarsus the First Martyr Boss Guide",
+    "display_title": "Tarsus the First Martyr Boss Guide",
+    "summary": "Complete Tarsus, the First Martyr boss guide for Mortal Shell II. Frost greatsword attacks, blizzard phase, clone mechanics, recommended loadout, and no-hit strategy.",
+    "category": "Bosses",
+    "datePublished": "2026-06-26",
+    "dateModified": "2026-06-26"
+  },
+  {
+    "path": "articles/tar-farming-guide.html",
+    "url": "articles/tar-farming-guide.html",
+    "title": "Mortal Shell II Tar Farming Guide",
+    "display_title": "Tar Farming Guide",
+    "summary": "The ultimate Mortal Shell II tar and glimpses farming guide. Best farming spots for early, mid, and late game with exact locations, yields per run, and efficiency comparisons.",
+    "category": "Articles",
+    "datePublished": "2026-06-23",
+    "dateModified": "2026-06-23"
   },
   {
     "path": "articles/speedrun-route-guide.html",
@@ -280,6 +140,16 @@
     "dateModified": "2026-07-03"
   },
   {
+    "path": "shells.html",
+    "url": "shells.html",
+    "title": "Mortal Shell II Shell Compendium",
+    "display_title": "Shell Compendium",
+    "summary": "Complete Mortal Shell II Shell compendium — detailed ability trees, strengths and weaknesses, ideal weapon pairings, and best use cases for all 6 Shells. Choose right, halve the difficulty.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
+  },
+  {
     "path": "articles/shell-ability-tree-guide.html",
     "url": "articles/shell-ability-tree-guide.html",
     "title": "Mortal Shell II Shell Ability Tree Guide",
@@ -288,6 +158,16 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/secret-areas-hidden-bosses.html",
+    "url": "articles/secret-areas-hidden-bosses.html",
+    "title": "Mortal Shell II Secret Areas &amp; Hidden Bosses",
+    "display_title": "Secret Areas &amp; Hidden Bosses",
+    "summary": "Discover every Mortal Shell II secret area, hidden boss, and easter egg across Fallgrim, Temple Grounds, Crypt of Martyrs, Seat of Infinity, and Shifting Archives. Complete walkthrough with exact locations, illusory wall triggers, and unique loot.",
+    "category": "Articles",
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02"
   },
   {
     "path": "articles/seat-of-infinity-zone-guide.html",
@@ -310,6 +190,36 @@
     "dateModified": "2026-07-03"
   },
   {
+    "path": "articles/parry-resolve-guide.html",
+    "url": "articles/parry-resolve-guide.html",
+    "title": "Mortal Shell II Parry &amp; Resolve Guide",
+    "display_title": "Parry &amp; Resolve Guide",
+    "summary": "Master the Mortal Shell II parry and Resolve system with complete frame data, parryable attack lists for every boss, weapon timing windows, Resolve banking, and advanced riposte chains.",
+    "category": "Articles",
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01"
+  },
+  {
+    "path": "articles/ng-plus-guide.html",
+    "url": "articles/ng-plus-guide.html",
+    "title": "Mortal Shell II New Game Plus Guide",
+    "display_title": "New Game Plus Guide",
+    "summary": "Complete Mortal Shell II NG+ guide: what carries over, difficulty scaling, new enemy placements, exclusive NG+ rewards, and strategies to conquer every cycle. Everything that changes after your first clear.",
+    "category": "Articles",
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30"
+  },
+  {
+    "path": "articles/npc-questlines-guide.html",
+    "url": "articles/npc-questlines-guide.html",
+    "title": "Mortal Shell II NPC Questlines",
+    "display_title": "NPC Questlines",
+    "summary": "Complete Mortal Shell II NPC questlines walkthrough: The Old Prisoner, Thestus, Vlas, Baghead, Corrupted Sester, Twin-Faced Merchant, Gorf, and Gressil. Every step, reward, missable trigger, and quest outcome.",
+    "category": "Articles",
+    "datePublished": "2026-07-03",
+    "dateModified": "2026-07-03"
+  },
+  {
     "path": "articles/martyrs-blade-ice-guide.html",
     "url": "articles/martyrs-blade-ice-guide.html",
     "title": "Mortal Shell II Martyr's Blade Guide",
@@ -318,6 +228,36 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "maps.html",
+    "url": "maps.html",
+    "title": "Mortal Shell II Map Guide",
+    "display_title": "Map Guide",
+    "summary": "Complete Mortal Shell II map and exploration guide — key points for all 6 zones, hidden item locations, NPC positions, shortcut unlocks. 100% completion guide.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
+  },
+  {
+    "path": "articles/lore-story-analysis.html",
+    "url": "articles/lore-story-analysis.html",
+    "title": "Mortal Shell II Lore & Story Analysis",
+    "display_title": "Lore & Story Analysis",
+    "summary": "Complete Mortal Shell II lore and story analysis: the Fallgrim world creation myth, the Seven Shells origin, Vatra's corruption, The Dark Father's true identity, and all hidden narrative connections. Every secret of the narrative decoded.",
+    "category": "Articles",
+    "datePublished": "2026-07-04",
+    "dateModified": "2026-07-04"
+  },
+  {
+    "path": "bosses/imrod.html",
+    "url": "bosses/imrod.html",
+    "title": "Imrod the Unrepentant Boss Guide",
+    "display_title": "Imrod the Unrepentant Boss Guide",
+    "summary": "Complete Imrod, the Unrepentant boss guide for Mortal Shell II. Fire giant attack patterns, lava arena management, Forge's Fury phase, recommended loadout, and no-hit tips.",
+    "category": "Bosses",
+    "datePublished": "2026-06-26",
+    "dateModified": "2026-06-26"
   },
   {
     "path": "articles/harrow-tank-build.html",
@@ -338,6 +278,16 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "bosses/hadern.html",
+    "url": "bosses/hadern.html",
+    "title": "Hadern Boss Guide",
+    "display_title": "Hadern Boss Guide",
+    "summary": "Complete Hadern boss guide for Mortal Shell II. Phase-by-phase attack breakdown, recommended Shell and weapons, preparation tips, and no-hit strategy for the tutorial boss.",
+    "category": "Bosses",
+    "datePublished": "2026-06-26",
+    "dateModified": "2026-06-26"
   },
   {
     "path": "articles/fallgrim-zone-guide.html",
@@ -380,6 +330,26 @@
     "dateModified": "2026-07-03"
   },
   {
+    "path": "bosses/crucix.html",
+    "url": "bosses/crucix.html",
+    "title": "Crucix the Twiceborn Boss Guide",
+    "display_title": "Crucix the Twiceborn Boss Guide",
+    "summary": "Complete Crucix, the Twiceborn boss guide for Mortal Shell II. Human form and spider phase strategies, attack patterns, recommended loadout, and no-hit tips.",
+    "category": "Bosses",
+    "datePublished": "2026-06-26",
+    "dateModified": "2026-06-26"
+  },
+  {
+    "path": "bosses/corvid.html",
+    "url": "bosses/corvid.html",
+    "title": "Corvid the Watcher Boss Guide",
+    "display_title": "Corvid the Watcher Boss Guide",
+    "summary": "Complete Corvid, the Watcher boss guide for Mortal Shell II. Aerial attack patterns, Shroud of Darkness phase, dive bomb counters, recommended loadout, and no-hit tips.",
+    "category": "Bosses",
+    "datePublished": "2026-06-26",
+    "dateModified": "2026-06-26"
+  },
+  {
     "path": "articles/consumable-crafting-guide.html",
     "url": "articles/consumable-crafting-guide.html",
     "title": "Mortal Shell II Consumable Crafting Guide",
@@ -390,6 +360,16 @@
     "dateModified": "2026-07-03"
   },
   {
+    "path": "articles/combat-tips-tricks.html",
+    "url": "articles/combat-tips-tricks.html",
+    "title": "Mortal Shell II Combat Tips",
+    "display_title": "Combat Tips",
+    "summary": "Master Mortal Shell II with 20 essential combat tips. Harden mastery, stamina management, weapon switching, parry windows, boss-specific tricks, & advanced techniques that pros use.",
+    "category": "Articles",
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29"
+  },
+  {
     "path": "articles/boss-rush-mode-guide.html",
     "url": "articles/boss-rush-mode-guide.html",
     "title": "Mortal Shell II Boss Rush Mode Guide",
@@ -398,6 +378,36 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "boss-guides.html",
+    "url": "boss-guides.html",
+    "title": "Mortal Shell II Boss Guide 鈥?All Bosses 路 Weaknesses 路 No-Hit Strategies",
+    "display_title": "Boss Guide 鈥?All Bosses 路 Weaknesses 路 No-Hit Strategies",
+    "summary": "Complete Mortal Shell II boss guide 鈥?weaknesses, phase-by-phase strategies, recommended Shells and weapons, and no-hit tips for all 7 major bosses. Stuck on a boss? Start here.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
+  },
+  {
+    "path": "builds.html",
+    "url": "builds.html",
+    "title": "Mortal Shell II Best Builds",
+    "display_title": "Best Builds",
+    "summary": "Mortal Shell II best builds guide — 5 complete configurations: Tank, Assassin, Mage, Power, and Balanced. Shell + weapon + skill point allocation for every playstyle.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
+  },
+  {
+    "path": "beginner-guide.html",
+    "url": "beginner-guide.html",
+    "title": "Mortal Shell II Beginner's Guide",
+    "display_title": "Beginner's Guide",
+    "summary": "Complete Mortal Shell II beginner's guide. Learn the core combat system, master the Harden mechanic, understand death penalties, and pick the right starting Shell. Zero to hero.",
+    "category": "Guide",
+    "datePublished": "2026-06-22",
+    "dateModified": "2026-06-22"
   },
   {
     "path": "articles/abyssal-siphon-whip-guide.html",
