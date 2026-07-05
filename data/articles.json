@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/pc-optimization-settings-guide.html",
-    "url": "articles/pc-optimization-settings-guide.html",
-    "title": "Mortal Shell II PC Optimization Guide",
-    "display_title": "PC Optimization Guide",
-    "summary": "Ultimate Mortal Shell II PC optimization guide. Graphics settings breakdown, FPS benchmarks by GPU tier, NVIDIA/AMD control panel tweaks, stutter fixes, ultrawide support, and controller setup. Achieve smooth 60–144 FPS on any hardware.",
+    "path": "articles/consumable-crafting-guide.html",
+    "url": "articles/consumable-crafting-guide.html",
+    "title": "Mortal Shell II Consumable Crafting Guide",
+    "display_title": "Consumable Crafting Guide",
+    "summary": "Complete Mortal Shell II consumable crafting guide with all recipes, ingredient farming routes, best buffs for boss fights, poison &amp; fire strategies, and optimal consumable loadouts for every Shell. Maximize every consumable slot.",
     "category": "Articles",
-    "datePublished": "2026-07-05",
-    "dateModified": "2026-07-05"
+    "datePublished": "2026-07-06",
+    "dateModified": "2026-07-06"
   },
   {
     "path": "weapons.html",
@@ -200,6 +200,16 @@
     "dateModified": "2026-07-01"
   },
   {
+    "path": "articles/pc-optimization-settings-guide.html",
+    "url": "articles/pc-optimization-settings-guide.html",
+    "title": "Mortal Shell II PC Optimization Guide",
+    "display_title": "PC Optimization Guide",
+    "summary": "Ultimate Mortal Shell II PC optimization guide. Graphics settings breakdown, FPS benchmarks by GPU tier, NVIDIA/AMD control panel tweaks, stutter fixes, ultrawide support, and controller setup. Achieve smooth 60–144 FPS on any hardware.",
+    "category": "Articles",
+    "datePublished": "2026-07-05",
+    "dateModified": "2026-07-05"
+  },
+  {
     "path": "articles/ng-plus-guide.html",
     "url": "articles/ng-plus-guide.html",
     "title": "Mortal Shell II New Game Plus Guide",
@@ -348,16 +358,6 @@
     "category": "Bosses",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26"
-  },
-  {
-    "path": "articles/consumable-crafting-guide.html",
-    "url": "articles/consumable-crafting-guide.html",
-    "title": "Mortal Shell II Consumable Crafting Guide",
-    "display_title": "Consumable Crafting Guide",
-    "summary": "Complete Mortal Shell II consumable crafting guide with all recipes, ingredient farming locations, best buffs for boss fights, and optimal consumable loadouts for every Shell.",
-    "category": "Articles",
-    "datePublished": "2026-07-03",
-    "dateModified": "2026-07-03"
   },
   {
     "path": "articles/combat-tips-tricks.html",
