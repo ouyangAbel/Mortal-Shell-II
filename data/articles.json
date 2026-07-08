@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/weapon-upgrade-guide.html",
-    "url": "articles/weapon-upgrade-guide.html",
-    "title": "Mortal Shell II Weapon Upgrade Guide",
-    "display_title": "Weapon Upgrade Guide",
-    "summary": "Complete Mortal Shell II weapon upgrade guide. Find every upgrade material, learn all weapon paths, max damage values, and best farming spots to +10.",
+    "path": "articles/resurrection-healing-guide.html",
+    "url": "articles/resurrection-healing-guide.html",
+    "title": "Mortal Shell II Resurrection & Healing Guide",
+    "display_title": "Resurrection & Healing Guide",
+    "summary": "Master Mortal Shell II resurrection and healing mechanics. Learn how lives work, all healing items, mushroom effects, Sester revive timing, and advanced survival strategies for every boss fight.",
     "category": "Articles",
-    "datePublished": "2026-07-08",
-    "dateModified": "2026-07-08"
+    "datePublished": "2026-07-09",
+    "dateModified": "2026-07-09"
   },
   {
     "path": "weapons.html",
@@ -18,6 +18,16 @@
     "category": "Guide",
     "datePublished": "2026-06-22",
     "dateModified": "2026-06-22"
+  },
+  {
+    "path": "articles/weapon-upgrade-guide.html",
+    "url": "articles/weapon-upgrade-guide.html",
+    "title": "Mortal Shell II Weapon Upgrade Guide",
+    "display_title": "Weapon Upgrade Guide",
+    "summary": "Complete Mortal Shell II weapon upgrade guide. Find every upgrade material, learn all weapon paths, max damage values, and best farming spots to +10.",
+    "category": "Articles",
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08"
   },
   {
     "path": "achievements.html",
