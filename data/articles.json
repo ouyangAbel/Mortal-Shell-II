@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/consumable-crafting-guide.html",
-    "url": "articles/consumable-crafting-guide.html",
-    "title": "Mortal Shell II Consumable Crafting Guide",
-    "display_title": "Consumable Crafting Guide",
-    "summary": "Complete Mortal Shell II consumable crafting guide with all recipes, ingredient farming routes, best buffs for boss fights, poison &amp; fire strategies, and optimal consumable loadouts for every Shell. Maximize every consumable slot.",
+    "path": "articles/weapon-upgrade-guide.html",
+    "url": "articles/weapon-upgrade-guide.html",
+    "title": "Mortal Shell II Weapon Upgrade Guide",
+    "display_title": "Weapon Upgrade Guide",
+    "summary": "Complete Mortal Shell II weapon upgrade guide. Find every upgrade material, learn all weapon paths, max damage values, and best farming spots to +10.",
     "category": "Articles",
-    "datePublished": "2026-07-06",
-    "dateModified": "2026-07-06"
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08"
   },
   {
     "path": "weapons.html",
@@ -358,6 +358,16 @@
     "category": "Bosses",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26"
+  },
+  {
+    "path": "articles/consumable-crafting-guide.html",
+    "url": "articles/consumable-crafting-guide.html",
+    "title": "Mortal Shell II Consumable Crafting Guide",
+    "display_title": "Consumable Crafting Guide",
+    "summary": "Complete Mortal Shell II consumable crafting guide with all recipes, ingredient farming routes, best buffs for boss fights, poison &amp; fire strategies, and optimal consumable loadouts for every Shell. Maximize every consumable slot.",
+    "category": "Articles",
+    "datePublished": "2026-07-06",
+    "dateModified": "2026-07-06"
   },
   {
     "path": "articles/combat-tips-tricks.html",
