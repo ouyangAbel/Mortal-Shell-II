@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/resurrection-healing-guide.html",
-    "url": "articles/resurrection-healing-guide.html",
-    "title": "Mortal Shell II Resurrection & Healing Guide",
-    "display_title": "Resurrection & Healing Guide",
-    "summary": "Master Mortal Shell II resurrection and healing mechanics. Learn how lives work, all healing items, mushroom effects, Sester revive timing, and advanced survival strategies for every boss fight.",
+    "path": "articles/harden-mechanic-guide.html",
+    "url": "articles/harden-mechanic-guide.html",
+    "title": "Mortal Shell II Harden Guide",
+    "display_title": "Harden Guide",
+    "summary": "Master the Mortal Shell II Harden mechanic with complete timing data, cooldown stats, shell synergy rankings, advanced techniques, and boss-specific Harden strategies.",
     "category": "Articles",
-    "datePublished": "2026-07-09",
-    "dateModified": "2026-07-09"
+    "datePublished": "2026-07-10",
+    "dateModified": "2026-07-10"
   },
   {
     "path": "weapons.html",
@@ -188,6 +188,16 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/resurrection-healing-guide.html",
+    "url": "articles/resurrection-healing-guide.html",
+    "title": "Mortal Shell II Resurrection & Healing Guide",
+    "display_title": "Resurrection & Healing Guide",
+    "summary": "Master Mortal Shell II resurrection and healing mechanics. Learn how lives work, all healing items, mushroom effects, Sester revive timing, and advanced survival strategies for every boss fight.",
+    "category": "Articles",
+    "datePublished": "2026-07-09",
+    "dateModified": "2026-07-09"
   },
   {
     "path": "articles/pvp-invasion-guide.html",
