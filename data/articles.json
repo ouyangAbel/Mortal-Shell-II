@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/harden-mechanic-guide.html",
-    "url": "articles/harden-mechanic-guide.html",
-    "title": "Mortal Shell II Harden Guide",
-    "display_title": "Harden Guide",
-    "summary": "Master the Mortal Shell II Harden mechanic with complete timing data, cooldown stats, shell synergy rankings, advanced techniques, and boss-specific Harden strategies.",
+    "path": "articles/weapon-tier-list.html",
+    "url": "articles/weapon-tier-list.html",
+    "title": "Mortal Shell II Weapon Tier List",
+    "display_title": "Weapon Tier List",
+    "summary": "Mortal Shell II weapon tier list ranking every weapon from S to C tier. Compare damage, speed, range, and scaling to find the best weapon for your build.",
     "category": "Articles",
-    "datePublished": "2026-07-10",
-    "dateModified": "2026-07-10"
+    "datePublished": "2026-07-11",
+    "dateModified": "2026-07-11"
   },
   {
     "path": "weapons.html",
@@ -298,6 +298,16 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/harden-mechanic-guide.html",
+    "url": "articles/harden-mechanic-guide.html",
+    "title": "Mortal Shell II Harden Guide",
+    "display_title": "Harden Guide",
+    "summary": "Master the Mortal Shell II Harden mechanic with complete timing data, cooldown stats, shell synergy rankings, advanced techniques, and boss-specific Harden strategies.",
+    "category": "Articles",
+    "datePublished": "2026-07-10",
+    "dateModified": "2026-07-10"
   },
   {
     "path": "articles/hallowed-sword-upgrade-guide.html",
