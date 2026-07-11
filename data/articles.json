@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/weapon-tier-list.html",
-    "url": "articles/weapon-tier-list.html",
-    "title": "Mortal Shell II Weapon Tier List",
-    "display_title": "Weapon Tier List",
-    "summary": "Mortal Shell II weapon tier list ranking every weapon from S to C tier. Compare damage, speed, range, and scaling to find the best weapon for your build.",
+    "path": "articles/enemy-bestiary-guide.html",
+    "url": "articles/enemy-bestiary-guide.html",
+    "title": "Mortal Shell II Enemy Bestiary",
+    "display_title": "Enemy Bestiary",
+    "summary": "Complete Mortal Shell II enemy bestiary with every enemy type, attack patterns, elemental weaknesses, stagger values, and optimal counter strategies. Never die to trash mobs again.",
     "category": "Articles",
-    "datePublished": "2026-07-11",
-    "dateModified": "2026-07-11"
+    "datePublished": "2026-07-12",
+    "dateModified": "2026-07-12"
   },
   {
     "path": "weapons.html",
@@ -28,6 +28,16 @@
     "category": "Articles",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08"
+  },
+  {
+    "path": "articles/weapon-tier-list.html",
+    "url": "articles/weapon-tier-list.html",
+    "title": "Mortal Shell II Weapon Tier List",
+    "display_title": "Weapon Tier List",
+    "summary": "Mortal Shell II weapon tier list ranking every weapon from S to C tier. Compare damage, speed, range, and scaling to find the best weapon for your build.",
+    "category": "Articles",
+    "datePublished": "2026-07-11",
+    "dateModified": "2026-07-11"
   },
   {
     "path": "achievements.html",
