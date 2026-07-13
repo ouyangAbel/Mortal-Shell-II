@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/enemy-bestiary-guide.html",
-    "url": "articles/enemy-bestiary-guide.html",
-    "title": "Mortal Shell II Enemy Bestiary",
-    "display_title": "Enemy Bestiary",
-    "summary": "Complete Mortal Shell II enemy bestiary with every enemy type, attack patterns, elemental weaknesses, stagger values, and optimal counter strategies. Never die to trash mobs again.",
+    "path": "articles/speedrun-route-guide.html",
+    "url": "articles/speedrun-route-guide.html",
+    "title": "Mortal Shell II Speedrun Route Guide",
+    "display_title": "Speedrun Route Guide",
+    "summary": "Complete Mortal Shell II speedrun route guide. Any% glitchless sub-2-hour path, boss skip techniques, optimal Shell/weapon choices, and every split breakdown for runners.",
     "category": "Articles",
-    "datePublished": "2026-07-12",
-    "dateModified": "2026-07-12"
+    "datePublished": "2026-07-14",
+    "dateModified": "2026-07-14"
   },
   {
     "path": "weapons.html",
@@ -108,16 +108,6 @@
     "category": "Articles",
     "datePublished": "2026-06-23",
     "dateModified": "2026-06-23"
-  },
-  {
-    "path": "articles/speedrun-route-guide.html",
-    "url": "articles/speedrun-route-guide.html",
-    "title": "Mortal Shell II Speedrun Route Guide",
-    "display_title": "Speedrun Route Guide",
-    "summary": "Complete Mortal Shell II speedrun route guide with the fastest boss order, critical skips, optimal Shell and weapon progression, and world-record strategies for Any% and All Bosses.",
-    "category": "Articles",
-    "datePublished": "2026-07-03",
-    "dateModified": "2026-07-03"
   },
   {
     "path": "articles/solomon-mage-build.html",
@@ -358,6 +348,16 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/enemy-bestiary-guide.html",
+    "url": "articles/enemy-bestiary-guide.html",
+    "title": "Mortal Shell II Enemy Bestiary",
+    "display_title": "Enemy Bestiary",
+    "summary": "Complete Mortal Shell II enemy bestiary with every enemy type, attack patterns, elemental weaknesses, stagger values, and optimal counter strategies. Never die to trash mobs again.",
+    "category": "Articles",
+    "datePublished": "2026-07-12",
+    "dateModified": "2026-07-12"
   },
   {
     "path": "articles/dual-wield-build-guide.html",
