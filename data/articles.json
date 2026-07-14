@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/speedrun-route-guide.html",
-    "url": "articles/speedrun-route-guide.html",
-    "title": "Mortal Shell II Speedrun Route Guide",
-    "display_title": "Speedrun Route Guide",
-    "summary": "Complete Mortal Shell II speedrun route guide. Any% glitchless sub-2-hour path, boss skip techniques, optimal Shell/weapon choices, and every split breakdown for runners.",
+    "path": "articles/elemental-damage-guide.html",
+    "url": "articles/elemental-damage-guide.html",
+    "title": "Mortal Shell II Elemental Damage Guide",
+    "display_title": "Elemental Damage Guide",
+    "summary": "Master Mortal Shell II elemental damage and status effects. Complete guide to fire, frost, poison, and holy enchantments with boss weakness tables and optimal strategies.",
     "category": "Articles",
-    "datePublished": "2026-07-14",
-    "dateModified": "2026-07-14"
+    "datePublished": "2026-07-15",
+    "dateModified": "2026-07-15"
   },
   {
     "path": "weapons.html",
@@ -108,6 +108,16 @@
     "category": "Articles",
     "datePublished": "2026-06-23",
     "dateModified": "2026-06-23"
+  },
+  {
+    "path": "articles/speedrun-route-guide.html",
+    "url": "articles/speedrun-route-guide.html",
+    "title": "Mortal Shell II Speedrun Route Guide",
+    "display_title": "Speedrun Route Guide",
+    "summary": "Complete Mortal Shell II speedrun route guide. Any% glitchless sub-2-hour path, boss skip techniques, optimal Shell/weapon choices, and every split breakdown for runners.",
+    "category": "Articles",
+    "datePublished": "2026-07-14",
+    "dateModified": "2026-07-14"
   },
   {
     "path": "articles/solomon-mage-build.html",
