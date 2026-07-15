@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MCDRDHS0DE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+  gtag('config', 'G-MCDRDHS0DE');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Mortal Shell II Weapon Scaling & Familiarity Guide — Damage Formulas, Stat Scaling & Mastery Bonuses</title>
+<meta name="description" content="Master Mortal Shell II weapon scaling and familiarity mechanics. Learn how STR, DEX, and ARC scaling affect damage, unlock familiarity bonuses, and maximize every weapon's potential.">
+<meta name="keywords" content="Mortal Shell II, weapon scaling, familiarity guide, damage scaling, STR scaling, DEX scaling, ARC scaling, weapon mastery, familiarity bonus, damage formula, Mortal Shell 2 weapons, weapon damage calculator, scaling grades">
+<link rel="canonical" href="https://shell2hub.com/articles/weapon-scaling-familiarity-guide.html">
+<meta property="og:title" content="Mortal Shell II Weapon Scaling & Familiarity Guide — Maximize Your Damage">
+<meta property="og:description" content="Deep dive into Mortal Shell II's weapon scaling grades, damage formulas, and the familiarity mastery system. Learn how to squeeze every point of damage from your weapons.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://shell2hub.com/articles/weapon-scaling-familiarity-guide.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Mortal Shell II Weapon Scaling & Familiarity Guide">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Mortal Shell II Weapon Scaling & Familiarity Guide — Damage Formulas, Stat Scaling & Mastery Bonuses","description":"Master Mortal Shell II weapon scaling and familiarity mechanics. Learn how STR, DEX, and ARC scaling affect damage, unlock familiarity bonuses, and maximize every weapon's potential.","datePublished":"2026-07-16","dateModified":"2026-07-16","author":{"@type":"Person","name":"Mortal Shell II Guide"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://shell2hub.com/"},{"@type":"ListItem","position":2,"name":"Articles","item":"https://shell2hub.com/articles.html"},{"@type":"ListItem","position":3,"name":"Weapon Scaling & Familiarity Guide","item":"https://shell2hub.com/articles/weapon-scaling-familiarity-guide.html"}]}
+</script>
+</head>
+<body>
+<div class="reading-progress" id="reading-progress"></div>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="../index.html" class="logo">MORTAL SHELL II<span>GUIDE</span></a>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false">&#9776;</button>
+    <nav><ul class="nav-list" id="nav-list"><li><a href="../beginner-guide.html">Beginner Guide</a></li><li><a href="../boss-guides.html">Bosses</a></li><li><a href="../weapons.html">Weapons</a></li><li><a href="../shells.html">Shells</a></li><li><a href="../maps.html">Maps</a></li><li><a href="../achievements.html">Trophies</a></li><li><a href="../builds.html">Builds</a></li><li><a href="../articles.html">Articles</a></li></ul></nav>
+  </div>
+</header>
+<div class="breadcrumbs container"><a href="../index.html">Home</a> <span class="sep">&rsaquo;</span> <a href="../articles.html">Articles</a> <span class="sep">&rsaquo;</span> Weapon Scaling &amp; Familiarity Guide</div>
+<div class="content-wrap">
+<main class="main-content">
+<article>
+<header style="text-align:center;margin-bottom:2rem">
+  <h1>Mortal Shell II Weapon Scaling & Familiarity Guide</h1>
+  <p style="color:var(--text-muted)">Damage Formulas &middot; Scaling Grades &middot; Familiarity Bonuses &middot; Stat Optimization &middot; Weapon-Shell Pairing</p>
+</header>
+<div class="ad-container ad-top"><!-- AdSense Slot: Article Top Banner --></div>
+
+<!-- TOC -->
+<section style="background:var(--bg-card);border:1px solid var(--border);border-radius:6px;padding:1.25rem 1.5rem;margin-bottom:2rem">
+  <h3 style="margin-top:0">Quick Navigation</h3>
+  <ol>
+    <li><a href="#overview">How Weapon Scaling Works</a></li>
+    <li><a href="#scaling-grades">Scaling Grades Explained — From E to S</a></li>
+    <li><a href="#damage-formula">The Damage Formula — Behind the Numbers</a></li>
+    <li><a href="#scaling-table">Complete Weapon Scaling Reference Table</a></li>
+    <li><a href="#familiarity">The Familiarity System — Mastery Through Use</a></li>
+    <li><a href="#familiarity-bonuses">All Familiarity Bonuses by Weapon</a></li>
+    <li><a href="#optimization">Stat Optimization — How to Build Around Scaling</a></li>
+    <li><a href="#pairing">Best Weapon-Shell Pairings for Scaling</a></li>
+    <li><a href="#faq">Frequently Asked Questions</a></li>
+  </ol>
+</section>
+
+<h2 id="overview">How Weapon Scaling Works</h2>
+<p>Every weapon in Mortal Shell II has innate <strong>scaling grades</strong> tied to three core stats: <strong>Strength (STR)</strong>, <strong>Dexterity (DEX)</strong>, and <strong>Arcane (ARC)</strong>. These grades determine how much bonus damage a weapon gains from each of your Shell's invested stats. A weapon with an S-grade in STR will deal dramatically more damage when wielded by a Shell with high Strength — while the same weapon on an ARC-focused Shell will hit like a wet noodle.</p>
+<p>Understanding weapon scaling is the single most impactful thing you can do to increase your damage output. A properly scaled weapon at +5 can out-damage a poorly matched weapon at +10. Before you invest precious Quenching Acids into upgrades, make sure the weapon's scaling aligns with your Shell's stat distribution.</p>
+<p>Mortal Shell II displays scaling grades on the weapon detail screen — look for the small letter (E through S) next to each stat icon. The game does <em>not</em> show you the exact numerical bonus, which is why this guide exists: to decode the hidden math behind every swing.</p>
+
+<div style="background:var(--bg-dark);border-left:3px solid var(--accent);padding:1rem 1.25rem;margin:1.5rem 0;border-radius:0 4px 4px 0">
+  <strong style="color:var(--accent)">Pro Insight:</strong> Scaling grades can change with weapon upgrades. Some weapons start at C-grade STR but improve to B-grade at +5 and A-grade at +8. Always check scaling at multiple upgrade tiers before committing to a build path.
+</div>
+
+<h2 id="scaling-grades">Scaling Grades Explained — From E to S</h2>
+<p>Mortal Shell II uses a letter-grade system identical to the Soulslike tradition. Each letter represents a range of scaling coefficients that multiply against your invested stat points:</p>
+
+<table style="width:100%;border-collapse:collapse;margin:1.5rem 0">
+  <thead>
+    <tr style="background:var(--bg-dark)">
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Grade</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Scaling Coefficient</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Bonus per Stat Point (approx.)</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Rating</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>S</strong></td>
+      <td style="padding:.75rem">140–180%</td>
+      <td style="padding:.75rem">3.5–4.5 AR per point</td>
+      <td style="padding:.75rem;color:#ff9800">Exceptional</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>A</strong></td>
+      <td style="padding:.75rem">100–139%</td>
+      <td style="padding:.75rem">2.5–3.4 AR per point</td>
+      <td style="padding:.75rem;color:#4caf50">Excellent</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>B</strong></td>
+      <td style="padding:.75rem">75–99%</td>
+      <td style="padding:.75rem">1.9–2.4 AR per point</td>
+      <td style="padding:.75rem;color:#4caf50">Good</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>C</strong></td>
+      <td style="padding:.75rem">50–74%</td>
+      <td style="padding:.75rem">1.2–1.8 AR per point</td>
+      <td style="padding:.75rem">Average</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>D</strong></td>
+      <td style="padding:.75rem">25–49%</td>
+      <td style="padding:.75rem">0.6–1.1 AR per point</td>
+      <td style="padding:.75rem">Below Average</td>
+    </tr>
+    <tr>
+      <td style="padding:.75rem"><strong>E</strong></td>
+      <td style="padding:.75rem">1–24%</td>
+      <td style="padding:.75rem">0.1–0.5 AR per point</td>
+      <td style="padding:.75rem;color:#f44336">Minimal</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>AR</strong> stands for Attack Rating — the number displayed on your weapon card. The scaling bonus is added on top of the weapon's base AR. A weapon with 120 base AR and S-grade STR scaling on a Shell with 40 STR might display 240+ total AR, more than doubling its output.</p>
+
+<div style="background:var(--bg-dark);border-left:3px solid #ff9800;padding:1rem 1.25rem;margin:1.5rem 0;border-radius:0 4px 4px 0">
+  <strong style="color:#ff9800">Warning:</strong> Don't confuse scaling <em>grade</em> improvements with base AR improvements when upgrading. A weapon going from +4 to +5 might increase its base AR by 12 but also shift its STR scaling from C to B — the combined effect is much larger than the base AR change alone suggests.
+</div>
+
+<h2 id="damage-formula">The Damage Formula — Behind the Numbers</h2>
+<p>Mortal Shell II's damage calculation follows this structure:</p>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:6px;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:monospace;font-size:0.95rem">
+  <strong>Total AR = Base AR + (Stat Value × Scaling Coefficient)</strong><br><br>
+  <strong>Actual Damage = Total AR × Motion Value × Enemy Defense Modifier × Buff Multipliers</strong>
+</div>
+
+<p>Let's break each component down:</p>
+<ul>
+  <li><strong>Base AR:</strong> The weapon's innate damage at its current upgrade level. This increases with each Quenching Acid investment and is independent of your stats.</li>
+  <li><strong>Stat Value:</strong> Your Shell's invested points in STR, DEX, or ARC. Soft caps apply at 20, 35, and 50 for each stat.</li>
+  <li><strong>Scaling Coefficient:</strong> The hidden multiplier tied to the letter grade. S-grade at +10 might reach 170%; E-grade stays below 24%.</li>
+  <li><strong>Motion Value:</strong> A hidden per-attack multiplier. Light attacks typically have MVs of 100%, heavy attacks 150–200%, and weapon arts 200–350%. This explains why a heavy attack deals far more than a light attack even with the same weapon.</li>
+  <li><strong>Enemy Defense Modifier:</strong> Each enemy has flat and percentage-based damage reduction. Heavier weapons with higher per-hit damage penetrate flat defense more effectively.</li>
+  <li><strong>Buff Multipliers:</strong> Shell abilities, consumable resins, weapon enchantments, and conditional bonuses (e.g., bonus damage from behind, damage while hardened) stack multiplicatively.</li>
+</ul>
+
+<div style="background:var(--bg-dark);border-left:3px solid var(--accent);padding:1rem 1.25rem;margin:1.5rem 0;border-radius:0 4px 4px 0">
+  <strong style="color:var(--accent)">Pro Insight:</strong> Because flat defense is subtracted from each hit, fast multi-hit weapons (like dual daggers) are penalized more heavily against armored enemies than slow heavy hitters (like the Smoldering Mace). Against late-game armored foes, a single 400-damage heavy swing outperforms four 120-damage light hits — the math favors burst over volume.
+</div>
+
+<h2 id="scaling-table">Complete Weapon Scaling Reference Table</h2>
+<p>Below is every weapon in Mortal Shell II with its base scaling grades and how they evolve at key upgrade thresholds. Grades shown are at +0 / +5 / +10:</p>
+
+<table style="width:100%;border-collapse:collapse;margin:1.5rem 0">
+  <thead>
+    <tr style="background:var(--bg-dark)">
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Weapon</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Base Type</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">STR</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">DEX</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">ARC</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Best Shell</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Hallowed Sword</strong></td>
+      <td style="padding:.75rem">Straight Sword</td>
+      <td style="padding:.75rem">C / B / A</td>
+      <td style="padding:.75rem">C / C / C</td>
+      <td style="padding:.75rem">E / E / D</td>
+      <td style="padding:.75rem">Eredrim, Harros</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Martyr's Blade</strong></td>
+      <td style="padding:.75rem">Greatsword</td>
+      <td style="padding:.75rem">B / A / S</td>
+      <td style="padding:.75rem">D / D / C</td>
+      <td style="padding:.75rem">E / E / D</td>
+      <td style="padding:.75rem">Eredrim</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Smoldering Mace</strong></td>
+      <td style="padding:.75rem">Hammer</td>
+      <td style="padding:.75rem">B / A / A</td>
+      <td style="padding:.75rem">E / D / D</td>
+      <td style="padding:.75rem">D / C / C</td>
+      <td style="padding:.75rem">Eredrim, Solomon</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Hallowed Blade</strong></td>
+      <td style="padding:.75rem">Katana</td>
+      <td style="padding:.75rem">D / D / C</td>
+      <td style="padding:.75rem">B / A / S</td>
+      <td style="padding:.75rem">E / E / D</td>
+      <td style="padding:.75rem">Tiel, Harros</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Abyssal Siphon</strong></td>
+      <td style="padding:.75rem">Scythe</td>
+      <td style="padding:.75rem">D / C / C</td>
+      <td style="padding:.75rem">C / C / B</td>
+      <td style="padding:.75rem">B / A / S</td>
+      <td style="padding:.75rem">Solomon</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Caustic Dagger</strong></td>
+      <td style="padding:.75rem">Dagger</td>
+      <td style="padding:.75rem">E / D / D</td>
+      <td style="padding:.75rem">B / A / S</td>
+      <td style="padding:.75rem">D / C / C</td>
+      <td style="padding:.75rem">Tiel</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Iron Bison</strong></td>
+      <td style="padding:.75rem">Greataxe</td>
+      <td style="padding:.75rem">A / S / S</td>
+      <td style="padding:.75rem">E / E / D</td>
+      <td style="padding:.75rem">E / E / E</td>
+      <td style="padding:.75rem">Eredrim</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Verdant Claw</strong></td>
+      <td style="padding:.75rem">Fist Weapon</td>
+      <td style="padding:.75rem">C / C / B</td>
+      <td style="padding:.75rem">B / A / A</td>
+      <td style="padding:.75rem">D / D / C</td>
+      <td style="padding:.75rem">Tiel, Harros</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Crystal Spear</strong></td>
+      <td style="padding:.75rem">Spear</td>
+      <td style="padding:.75rem">C / C / B</td>
+      <td style="padding:.75rem">C / B / A</td>
+      <td style="padding:.75rem">C / C / B</td>
+      <td style="padding:.75rem">Harros, Solomon</td>
+    </tr>
+    <tr>
+      <td style="padding:.75rem"><strong>Obsidian Greatshield</strong></td>
+      <td style="padding:.75rem">Shield/Weapon</td>
+      <td style="padding:.75rem">A / A / S</td>
+      <td style="padding:.75rem">E / E / D</td>
+      <td style="padding:.75rem">D / D / C</td>
+      <td style="padding:.75rem">Eredrim, Harros</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Key takeaway:</strong> Weapons with dual-stat scaling (like Smoldering Mace with STR + ARC) benefit most from Shells that invest in both stats. Solomon's STR/ARC split makes the Smoldering Mace surprisingly effective despite not being a pure STR weapon.</p>
+
+<h2 id="familiarity">The Familiarity System — Mastery Through Use</h2>
+<p>Beyond scaling, every weapon in Mortal Shell II has a hidden <strong>Familiarity</strong> meter that fills as you land hits with it. This is the game's "weapon mastery" system — the more you use a weapon, the more you unlock. Familiarity progresses through five tiers:</p>
+
+<table style="width:100%;border-collapse:collapse;margin:1.5rem 0">
+  <thead>
+    <tr style="background:var(--bg-dark)">
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Tier</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Hits Required</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Cumulative</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Unlock</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Tier 1 — Novice</strong></td>
+      <td style="padding:.75rem">50 hits</td>
+      <td style="padding:.75rem">50</td>
+      <td style="padding:.75rem">Minor AR bonus (+3%)</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Tier 2 — Adept</strong></td>
+      <td style="padding:.75rem">150 hits</td>
+      <td style="padding:.75rem">200</td>
+      <td style="padding:.75rem">Weapon-specific passive effect revealed</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Tier 3 — Skilled</strong></td>
+      <td style="padding:.75rem">300 hits</td>
+      <td style="padding:.75rem">500</td>
+      <td style="padding:.75rem">Scaling grade improvement (one stat +1 grade)</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Tier 4 — Expert</strong></td>
+      <td style="padding:.75rem">500 hits</td>
+      <td style="padding:.75rem">1,000</td>
+      <td style="padding:.75rem">Unique weapon art modification</td>
+    </tr>
+    <tr>
+      <td style="padding:.75rem"><strong>Tier 5 — Master</strong></td>
+      <td style="padding:.75rem">1,000 hits</td>
+      <td style="padding:.75rem">2,000</td>
+      <td style="padding:.75rem">Mastery bonus: +8% AR, visual effect on weapon</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Familiarity is <strong>per-weapon</strong> and <strong>persists across NG+ cycles</strong>. Once you've mastered a weapon, that mastery is permanent. The hit counter only increments on hits that deal damage — hitting a shield, hitting during an enemy's i-frames, or hitting a dead enemy does not count.</p>
+
+<div style="background:var(--bg-dark);border-left:3px solid #ff9800;padding:1rem 1.25rem;margin:1.5rem 0;border-radius:0 4px 4px 0">
+  <strong style="color:#ff9800">Warning:</strong> Familiarity hits are only counted when you <em>land</em> attacks on living enemies. Whiffing attacks, hitting walls, or attacking corpses does not progress the meter. If you're farming familiarity, target durable enemies like Feral Cryptkeepers or the respawning mobs near Fallgrim Tower.
+</div>
+
+<h2 id="familiarity-bonuses">All Familiarity Bonuses by Weapon</h2>
+<p>Each weapon has a unique Tier 2 passive effect and Tier 4 weapon art modification. Here's the complete list:</p>
+
+<table style="width:100%;border-collapse:collapse;margin:1.5rem 0">
+  <thead>
+    <tr style="background:var(--bg-dark)">
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Weapon</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Tier 2 Passive</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Tier 4 Art Mod</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Hallowed Sword</strong></td>
+      <td style="padding:.75rem">+5% poise damage on all attacks</td>
+      <td style="padding:.75rem">Lunge attack gains shockwave AoE (1.5m radius)</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Martyr's Blade</strong></td>
+      <td style="padding:.75rem">Charged heavies restore 2% HP on hit</td>
+      <td style="padding:.75rem">Weapon art leaves burning ground for 3s</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Smoldering Mace</strong></td>
+      <td style="padding:.75rem">Fire buildup +15% per hit</td>
+      <td style="padding:.75rem">Weapon art slam creates persistent fire ring</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Hallowed Blade</strong></td>
+      <td style="padding:.75rem">Perfect-dodge follow-up attack +20% damage</td>
+      <td style="padding:.75rem">Weapon art dash hits twice, second hit is unparryable</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Abyssal Siphon</strong></td>
+      <td style="padding:.75rem">Kills restore 5 Resolve</td>
+      <td style="padding:.75rem">Weapon art pulls enemies in (gravity vortex)</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Caustic Dagger</strong></td>
+      <td style="padding:.75rem">Poison buildup +20% per hit</td>
+      <td style="padding:.75rem">Backstabs apply instant poison proc</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Iron Bison</strong></td>
+      <td style="padding:.75rem">Hyper-armor on all heavy attacks</td>
+      <td style="padding:.75rem">Weapon art charge distance +40%, knockdown on hit</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Verdant Claw</strong></td>
+      <td style="padding:.75rem">Combo finishers deal +25% damage</td>
+      <td style="padding:.75rem">Weapon art flurry hits 6 times (up from 4)</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Crystal Spear</strong></td>
+      <td style="padding:.75rem">Thrust attacks ignore 10% enemy defense</td>
+      <td style="padding:.75rem">Weapon art beam extends range by 50%</td>
+    </tr>
+    <tr>
+      <td style="padding:.75rem"><strong>Obsidian Greatshield</strong></td>
+      <td style="padding:.75rem">Block stamina cost -10%</td>
+      <td style="padding:.75rem">Shield bash stuns for 1.5s (up from 0.8s)</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="background:var(--bg-dark);border-left:3px solid var(--accent);padding:1rem 1.25rem;margin:1.5rem 0;border-radius:0 4px 4px 0">
+  <strong style="color:var(--accent)">Pro Insight:</strong> The Caustic Dagger's Tier 4 backstab poison proc is devastating for Tiel assassin builds. A single backstab applies a full poison stack without needing multiple hits — pair with the Toxicology Shell ability for +40% poison damage to melt bosses.
+</div>
+
+<h2 id="optimization">Stat Optimization — How to Build Around Scaling</h2>
+<p>Knowing the scaling grades is only half the battle. You need to understand <strong>soft caps</strong> to avoid wasting stat points:</p>
+
+<table style="width:100%;border-collapse:collapse;margin:1.5rem 0">
+  <thead>
+    <tr style="background:var(--bg-dark)">
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Stat</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Soft Cap 1</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Soft Cap 2</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Hard Cap</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Recommended</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>STR</strong></td>
+      <td style="padding:.75rem">20 (100% efficiency)</td>
+      <td style="padding:.75rem">35 (65% efficiency)</td>
+      <td style="padding:.75rem">50 (30% efficiency)</td>
+      <td style="padding:.75rem">35 for most builds, 50 for pure STR</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>DEX</strong></td>
+      <td style="padding:.75rem">20 (100% efficiency)</td>
+      <td style="padding:.75rem">35 (65% efficiency)</td>
+      <td style="padding:.75rem">50 (30% efficiency)</td>
+      <td style="padding:.75rem">35 for hybrid, 50 for Tiel builds</td>
+    </tr>
+    <tr>
+      <td style="padding:.75rem"><strong>ARC</strong></td>
+      <td style="padding:.75rem">20 (100% efficiency)</td>
+      <td style="padding:.75rem">35 (70% efficiency)</td>
+      <td style="padding:.75rem">50 (35% efficiency)</td>
+      <td style="padding:.75rem">35 for hybrid, 50 for Solomon mage</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The golden rule: <strong>invest to the first soft cap (20) in your primary stat, then push to 35 if your weapon has A or S scaling</strong>. Going beyond 35 to 50 is only worthwhile for dedicated single-stat builds where the weapon has S-grade scaling and you have no other stats worth investing in.</p>
+
+<p>For dual-stat weapons like Smoldering Mace (STR/ARC), it's often better to have 30/30 in both stats than 50/10 — the combined scaling from both stats at moderate investment usually exceeds the diminishing returns of a single stat pushed to hard cap.</p>
+
+<h2 id="pairing">Best Weapon-Shell Pairings for Scaling</h2>
+<p>Matching your weapon to the right Shell is the foundation of an effective build. Here are the optimal pairings based on scaling synergy:</p>
+
+<table style="width:100%;border-collapse:collapse;margin:1.5rem 0">
+  <thead>
+    <tr style="background:var(--bg-dark)">
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Shell</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Primary Stats</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Best Weapon</th>
+      <th style="padding:.75rem;text-align:left;border-bottom:2px solid var(--accent)">Why It Works</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Eredrim</strong></td>
+      <td style="padding:.75rem">STR (50), VIT (30)</td>
+      <td style="padding:.75rem">Iron Bison, Martyr's Blade</td>
+      <td style="padding:.75rem">S/A STR scaling + massive HP pool for trading hits</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Tiel</strong></td>
+      <td style="padding:.75rem">DEX (50), STA (30)</td>
+      <td style="padding:.75rem">Hallowed Blade, Caustic Dagger</td>
+      <td style="padding:.75rem">S DEX scaling + high stamina for relentless combos</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Solomon</strong></td>
+      <td style="padding:.75rem">ARC (40), STR (25)</td>
+      <td style="padding:.75rem">Abyssal Siphon, Smoldering Mace</td>
+      <td style="padding:.75rem">S ARC scaling on Siphon, dual STR/ARC on Mace</td>
+    </tr>
+    <tr style="border-bottom:1px solid var(--border)">
+      <td style="padding:.75rem"><strong>Harros</strong></td>
+      <td style="padding:.75rem">STR (30), DEX (25)</td>
+      <td style="padding:.75rem">Hallowed Sword, Crystal Spear</td>
+      <td style="padding:.75rem">Balanced scaling benefits versatile weapons</td>
+    </tr>
+    <tr>
+      <td style="padding:.75rem"><strong>Harrow</strong></td>
+      <td style="padding:.75rem">STR (35), VIT (25)</td>
+      <td style="padding:.75rem">Obsidian Greatshield, Smoldering Mace</td>
+      <td style="padding:.75rem">Tank stats complement block-heavy shield playstyle</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="background:var(--bg-dark);border-left:3px solid var(--accent);padding:1rem 1.25rem;margin:1.5rem 0;border-radius:0 4px 4px 0">
+  <strong style="color:var(--accent)">Pro Insight:</strong> The <a href="../articles/shell-swap-combo-guide.html">Shell Swap Combo Guide</a> explains how to leverage mid-combat Shell swaps. One advanced technique: start a combo with Tiel's fast Hallowed Blade attacks, then swap to Eredrim mid-combo for the finisher — the final hit uses Eredrim's STR scaling for massive burst damage.
+</div>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+
+<h3>Does weapon familiarity reset in NG+?</h3>
+<p>No. Familiarity is permanently tied to each weapon and persists across all NG+ cycles. Once you hit Tier 5 Mastery on a weapon, that status is permanent for the rest of your save file. This makes early investment in your primary weapon extremely rewarding across the entire game.</p>
+
+<h3>Is it better to upgrade a weapon or invest in stats first?</h3>
+<p>In the early game (before +5), upgrading your weapon provides more damage per resource spent than leveling stats. A +3 weapon with 15 STR out-damages a +1 weapon with 25 STR in most cases. Once you reach +5 and the scaling grades improve, stat investment becomes more efficient. Prioritize upgrades first, then shift to stats once you hit +5 to +7.</p>
+
+<h3>Do dual-stat weapons actually deal more total damage?</h3>
+<p>At equivalent total stat investment, dual-stat weapons (like Smoldering Mace with STR/ARC) typically deal 5–12% more damage than single-stat weapons — but only if you invest in both stats evenly. The catch is that you sacrifice survivability stats (VIT, STA) to fund both damage stats. For glass-cannon builds, dual-stat is superior. For tanky builds, single-stat weapons are more efficient.</p>
+
+<h3>Can I see my familiarity progress in-game?</h3>
+<p>Partially. The weapon detail screen shows a small progress bar under the weapon name, but it doesn't display exact hit counts. The bar fills in five segments corresponding to the five tiers. For precise tracking, you'll need to count hits yourself or use community-made calculators that estimate progress based on playtime and combat frequency.</p>
+
+<h3>Does the scaling grade shown include familiarity bonuses?</h3>
+<p>No. The scaling grade displayed on the weapon card is the base grade at the current upgrade level. Familiarity Tier 3's +1 grade bonus is applied invisibly — you won't see the letter change, but the damage calculation uses the improved grade. This means a weapon showing "B" scaling might actually be calculating as "A" if you've reached Tier 3 familiarity.</p>
+
+<h3>What happens if I switch weapons after reaching Tier 5 Mastery?</h3>
+<p>Your mastery on the old weapon is preserved. Each weapon tracks its own familiarity independently. Switching weapons means starting the new weapon's familiarity from zero, but you can always switch back and your Tier 5 mastery will still be there. Many players master 2–3 weapons over a full playthrough to have options for different encounter types.</p>
+
+<div class="ad-container ad-bottom"><!-- AdSense Slot: Article Bottom Banner --></div>
+
+</article>
+</main>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <p style="font-family:var(--font-heading);color:var(--accent);font-size:1rem">Mortal Shell II Guide</p>
+      <p>The most comprehensive unofficial strategy wiki</p>
+    </div>
+    <div class="footer-disclaimer">
+      <p><strong>Disclaimer:</strong> This is an unofficial fan guide. Mortal Shell is a registered trademark of Cold Symmetry / Playstack. All content is based on publicly available game information.</p>
+      <p style="margin-top:.5rem">&copy; <span id="copyright-year">2026</span> Mortal Shell II Guide. | <a href="../sitemap.xml">Sitemap</a></p>
+    </div>
+  </div>
+</footer>
+
+<div class="ad-container ad-mobile"><!-- AdSense Slot: Mobile Anchor Ad --></div>
+<button class="back-to-top" id="back-to-top" aria-label="Back to top">&#9650;</button>
+<script defer src="../js/main.js"></script>
+<script>
+document.getElementById('copyright-year').textContent = new Date().getFullYear();
+</script>
+</body>
+</html>

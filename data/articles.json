@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/elemental-damage-guide.html",
-    "url": "articles/elemental-damage-guide.html",
-    "title": "Mortal Shell II Elemental Damage Guide",
-    "display_title": "Elemental Damage Guide",
-    "summary": "Master Mortal Shell II elemental damage and status effects. Complete guide to fire, frost, poison, and holy enchantments with boss weakness tables and optimal strategies.",
+    "path": "articles/weapon-scaling-familiarity-guide.html",
+    "url": "articles/weapon-scaling-familiarity-guide.html",
+    "title": "Mortal Shell II Weapon Scaling & Familiarity Guide",
+    "display_title": "Weapon Scaling & Familiarity Guide",
+    "summary": "Master Mortal Shell II weapon scaling and familiarity mechanics. Learn how STR, DEX, and ARC scaling affect damage, unlock familiarity bonuses, and maximize every weapon's potential.",
     "category": "Articles",
-    "datePublished": "2026-07-15",
-    "dateModified": "2026-07-15"
+    "datePublished": "2026-07-16",
+    "dateModified": "2026-07-16"
   },
   {
     "path": "weapons.html",
@@ -368,6 +368,16 @@
     "category": "Articles",
     "datePublished": "2026-07-12",
     "dateModified": "2026-07-12"
+  },
+  {
+    "path": "articles/elemental-damage-guide.html",
+    "url": "articles/elemental-damage-guide.html",
+    "title": "Mortal Shell II Elemental Damage Guide",
+    "display_title": "Elemental Damage Guide",
+    "summary": "Master Mortal Shell II elemental damage and status effects. Complete guide to fire, frost, poison, and holy enchantments with boss weakness tables and optimal strategies.",
+    "category": "Articles",
+    "datePublished": "2026-07-15",
+    "dateModified": "2026-07-15"
   },
   {
     "path": "articles/dual-wield-build-guide.html",
