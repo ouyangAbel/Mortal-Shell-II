@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/weapon-scaling-familiarity-guide.html",
-    "url": "articles/weapon-scaling-familiarity-guide.html",
-    "title": "Mortal Shell II Weapon Scaling & Familiarity Guide",
-    "display_title": "Weapon Scaling & Familiarity Guide",
-    "summary": "Master Mortal Shell II weapon scaling and familiarity mechanics. Learn how STR, DEX, and ARC scaling affect damage, unlock familiarity bonuses, and maximize every weapon's potential.",
+    "path": "articles/boss-rush-mode-guide.html",
+    "url": "articles/boss-rush-mode-guide.html",
+    "title": "Mortal Shell II Boss Rush Mode Guide",
+    "display_title": "Boss Rush Mode Guide",
+    "summary": "Complete Mortal Shell II Boss Rush mode guide. All 8 consecutive bosses, S-rank strategies, optimal Shell & weapon routes, reward tiers, and tips for every encounter.",
     "category": "Articles",
-    "datePublished": "2026-07-16",
-    "dateModified": "2026-07-16"
+    "datePublished": "2026-07-17",
+    "dateModified": "2026-07-17"
   },
   {
     "path": "weapons.html",
@@ -38,6 +38,16 @@
     "category": "Articles",
     "datePublished": "2026-07-11",
     "dateModified": "2026-07-11"
+  },
+  {
+    "path": "articles/weapon-scaling-familiarity-guide.html",
+    "url": "articles/weapon-scaling-familiarity-guide.html",
+    "title": "Mortal Shell II Weapon Scaling & Familiarity Guide",
+    "display_title": "Weapon Scaling & Familiarity Guide",
+    "summary": "Master Mortal Shell II weapon scaling and familiarity mechanics. Learn how STR, DEX, and ARC scaling affect damage, unlock familiarity bonuses, and maximize every weapon's potential.",
+    "category": "Articles",
+    "datePublished": "2026-07-16",
+    "dateModified": "2026-07-16"
   },
   {
     "path": "achievements.html",
@@ -438,16 +448,6 @@
     "category": "Articles",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29"
-  },
-  {
-    "path": "articles/boss-rush-mode-guide.html",
-    "url": "articles/boss-rush-mode-guide.html",
-    "title": "Mortal Shell II Boss Rush Mode Guide",
-    "display_title": "Boss Rush Mode Guide",
-    "summary": "Complete Mortal Shell II Boss Rush mode guide with strategies for all 8 consecutive bosses, optimal Shell and weapon routes, reward tiers, and S-rank completion tips.",
-    "category": "Articles",
-    "datePublished": "2026-07-03",
-    "dateModified": "2026-07-03"
   },
   {
     "path": "boss-guides.html",
