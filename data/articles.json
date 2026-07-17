@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/boss-rush-mode-guide.html",
-    "url": "articles/boss-rush-mode-guide.html",
-    "title": "Mortal Shell II Boss Rush Mode Guide",
-    "display_title": "Boss Rush Mode Guide",
-    "summary": "Complete Mortal Shell II Boss Rush mode guide. All 8 consecutive bosses, S-rank strategies, optimal Shell & weapon routes, reward tiers, and tips for every encounter.",
+    "path": "articles/runes-enchantments-guide.html",
+    "url": "articles/runes-enchantments-guide.html",
+    "title": "Mortal Shell II Runes & Enchantments Guide",
+    "display_title": "Runes & Enchantments Guide",
+    "summary": "Master Mortal Shell II's rune system with our complete enchantments guide. Best rune combos for every build, enchanting mechanics, locations, and optimization tips.",
     "category": "Articles",
-    "datePublished": "2026-07-17",
-    "dateModified": "2026-07-17"
+    "datePublished": "2026-07-18",
+    "dateModified": "2026-07-18"
   },
   {
     "path": "weapons.html",
@@ -448,6 +448,16 @@
     "category": "Articles",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29"
+  },
+  {
+    "path": "articles/boss-rush-mode-guide.html",
+    "url": "articles/boss-rush-mode-guide.html",
+    "title": "Mortal Shell II Boss Rush Mode Guide",
+    "display_title": "Boss Rush Mode Guide",
+    "summary": "Complete Mortal Shell II Boss Rush mode guide. All 8 consecutive bosses, S-rank strategies, optimal Shell & weapon routes, reward tiers, and tips for every encounter.",
+    "category": "Articles",
+    "datePublished": "2026-07-17",
+    "dateModified": "2026-07-17"
   },
   {
     "path": "boss-guides.html",
