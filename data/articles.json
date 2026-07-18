@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/runes-enchantments-guide.html",
-    "url": "articles/runes-enchantments-guide.html",
-    "title": "Mortal Shell II Runes & Enchantments Guide",
-    "display_title": "Runes & Enchantments Guide",
-    "summary": "Master Mortal Shell II's rune system with our complete enchantments guide. Best rune combos for every build, enchanting mechanics, locations, and optimization tips.",
+    "path": "articles/controller-settings-guide.html",
+    "url": "articles/controller-settings-guide.html",
+    "title": "Mortal Shell II Controller Settings Guide",
+    "display_title": "Controller Settings Guide",
+    "summary": "Optimize your Mortal Shell II controller settings with best button mappings, dead zone tweaks, input buffering tips, and advanced configuration for every playstyle.",
     "category": "Articles",
-    "datePublished": "2026-07-18",
-    "dateModified": "2026-07-18"
+    "datePublished": "2026-07-19",
+    "dateModified": "2026-07-19"
   },
   {
     "path": "weapons.html",
@@ -208,6 +208,16 @@
     "category": "Articles",
     "datePublished": "2026-07-03",
     "dateModified": "2026-07-03"
+  },
+  {
+    "path": "articles/runes-enchantments-guide.html",
+    "url": "articles/runes-enchantments-guide.html",
+    "title": "Mortal Shell II Runes & Enchantments Guide",
+    "display_title": "Runes & Enchantments Guide",
+    "summary": "Master Mortal Shell II's rune system with our complete enchantments guide. Best rune combos for every build, enchanting mechanics, locations, and optimization tips.",
+    "category": "Articles",
+    "datePublished": "2026-07-18",
+    "dateModified": "2026-07-18"
   },
   {
     "path": "articles/resurrection-healing-guide.html",
