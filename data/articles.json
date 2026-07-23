@@ -1,13 +1,13 @@
 [
   {
-    "path": "articles/controller-settings-guide.html",
-    "url": "articles/controller-settings-guide.html",
-    "title": "Mortal Shell II Controller Settings Guide",
-    "display_title": "Controller Settings Guide",
-    "summary": "Optimize your Mortal Shell II controller settings with best button mappings, dead zone tweaks, input buffering tips, and advanced configuration for every playstyle.",
+    "path": "articles/abyssal-rift-zone-guide.html",
+    "url": "articles/abyssal-rift-zone-guide.html",
+    "title": "Mortal Shell II Abyssal Rift",
+    "display_title": "Abyssal Rift",
+    "summary": "Complete Abyssal Rift walkthrough for Mortal Shell II. Every area, enemy, hidden path, collectible, and The Unchained boss strategy. Shadow Corridor secrets, Abyssal Knight optional boss, and how to survive the darkness.",
     "category": "Articles",
-    "datePublished": "2026-07-19",
-    "dateModified": "2026-07-19"
+    "datePublished": "2026-07-24",
+    "dateModified": "2026-07-24"
   },
   {
     "path": "weapons.html",
@@ -438,6 +438,16 @@
     "category": "Bosses",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26"
+  },
+  {
+    "path": "articles/controller-settings-guide.html",
+    "url": "articles/controller-settings-guide.html",
+    "title": "Mortal Shell II Controller Settings Guide",
+    "display_title": "Controller Settings Guide",
+    "summary": "Optimize your Mortal Shell II controller settings with best button mappings, dead zone tweaks, input buffering tips, and advanced configuration for every playstyle.",
+    "category": "Articles",
+    "datePublished": "2026-07-19",
+    "dateModified": "2026-07-19"
   },
   {
     "path": "articles/consumable-crafting-guide.html",
